@@ -1,6 +1,4 @@
-## Coursera automation scripts
-
-### Folder and subfolder creation
+## Folder and subfolder creation
 
 Script able to create folders and subfolders based on a json file from specific courses
 
