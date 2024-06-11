@@ -16,4 +16,4 @@ This json file needs to be pulled from Coursera's website once logged in the cou
 > Note 2: Each folder and subfolder contains a README.md file in order to be able to upload the entire structure to GitHub
 
 ## Example
-An execution example is provided. See *output_example.txt* for more information
+An execution example is provided. See [output_example.txt](https://github.com/mvarrone/coursera-scripts/blob/master/1-create-folder-structure-for-course/output_example.txt) for more information
