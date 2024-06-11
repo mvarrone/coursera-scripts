@@ -10,6 +10,8 @@ This json file needs to be pulled from Coursera's website once logged in the cou
 - Look for *window.App={*
     - Copy the entire line and paste it in a code editor
 - Remove *window.App={* and the last character ( ";" ). Save the file. Name it *course1.json*, for example
+- Run python script
+- Your folder(s) should be created
 
 > Note 1: Inside main.py file there is a list of files to be processed: Their filenames are *course1.json* and *course2.json*. Change them as needed
 
