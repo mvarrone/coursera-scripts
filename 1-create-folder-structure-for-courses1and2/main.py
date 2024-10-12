@@ -19,6 +19,7 @@ def load_json_file(file_path):
 def get_nested_data(data, keys):
     """Retrieves nested data from a dictionary given a list of keys."""
     for key in keys:
+        print(f"key: {key}")
         if isinstance(data, dict):
             data = data.get(key)
         else:
@@ -35,7 +36,8 @@ def sanitize_name(name):
 
 def create_folders(data, file_path):
     """Creates numbered folders and subfolders based on the elements in the data list."""
-    folder_name = sanitize_name(os.path.splitext(os.path.basename(file_path))[0])
+    folder_name = sanitize_name(
+        os.path.splitext(os.path.basename(file_path))[0])
     main_folder_path = folder_name
     if not os.path.exists(main_folder_path):
         os.makedirs(main_folder_path)
@@ -48,7 +50,8 @@ def create_folders(data, file_path):
         for i, info in enumerate(data):
             week_folder_name = f"week{i + 1}-{sanitize_name(info.get('name'))}"
             if week_folder_name:
-                week_folder_path = os.path.join(main_folder_path, week_folder_name)
+                week_folder_path = os.path.join(
+                    main_folder_path, week_folder_name)
                 if not os.path.exists(week_folder_path):
                     os.makedirs(week_folder_path)
                     print(f"Folder '{week_folder_path}' created.")
@@ -58,15 +61,18 @@ def create_folders(data, file_path):
 
                 # Create numbered subfolders for nested elements
                 for j, element in enumerate(info.get("elements", [])):
-                    subfolder_name = f"{j + 1:02d}-{sanitize_name(element.get('name'))}"
+                    subfolder_name = f"{
+                        j + 1:02d}-{sanitize_name(element.get('name'))}"
                     if subfolder_name:
-                        subfolder_path = os.path.join(week_folder_path, subfolder_name)
+                        subfolder_path = os.path.join(
+                            week_folder_path, subfolder_name)
                         if not os.path.exists(subfolder_path):
                             os.makedirs(subfolder_path)
                             print(f"Subfolder '{subfolder_path}' created.")
                             create_readme_file(subfolder_path)
                         else:
-                            print(f"Subfolder '{subfolder_path}' already exists.")
+                            print(f"Subfolder '{
+                                  subfolder_path}' already exists.")
 
 
 def create_readme_file(folder_path):
@@ -77,9 +83,9 @@ def create_readme_file(folder_path):
         print(f"README.md created inside '{folder_path}'.")
 
 
-def main():
-    files = ["course1.json", "course2.json"]
-    nested_keys = [
+def main() -> None:
+    files: list[str] = ["course1.json", "course2.json"]
+    nested_keys: list[str] = [
         "context",
         "dispatcher",
         "stores",
@@ -97,6 +103,7 @@ def main():
                 create_folders(result, file_path)
             else:
                 print("Key not found")
+                print(data)
 
 
 if __name__ == "__main__":

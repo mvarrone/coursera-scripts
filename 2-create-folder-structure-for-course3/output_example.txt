@@ -1,0 +1,29 @@
+Carpeta creada: course3\week1\01-welcome-to-the-course
+Carpeta creada: course3\week1\02-clustering
+Carpeta creada: course3\week1\03-practice-quiz-clustering
+Carpeta creada: course3\week1\04-practice-lab-1
+Carpeta creada: course3\week1\05-anomaly-detection
+Carpeta creada: course3\week1\06-practice-quiz-anomaly-detection
+Carpeta creada: course3\week1\07-practice-lab-2
+Carpeta creada: course3\week2\01-collaborative-filtering
+Carpeta creada: course3\week2\02-practice-quiz-collaborative-filtering
+Carpeta creada: course3\week2\03-recommender-systems-implementation-detail
+Carpeta creada: course3\week2\04-practice-lab-1
+Carpeta creada: course3\week2\05-practice-quiz-recommender-systems-implementation
+Carpeta creada: course3\week2\06-content-based-filtering
+Carpeta creada: course3\week2\07-practice-quiz-content-based-filtering
+Carpeta creada: course3\week2\08-practice-lab-2
+Carpeta creada: course3\week2\09-principal-component-analysis
+Carpeta creada: course3\week3\01-reinforcement-learning-introduction
+Carpeta creada: course3\week3\02-practice-quiz-reinforcement-learning-introduction
+Carpeta creada: course3\week3\03-state-action-value-function
+Carpeta creada: course3\week3\04-quiz-state-action-value-function
+Carpeta creada: course3\week3\05-continuous-state-spaces
+Carpeta creada: course3\week3\06-quiz-continuous-state-spaces
+Carpeta creada: course3\week3\07-end-of-access-to-lab-notebooks
+Carpeta creada: course3\week3\08-practice-lab-reinforcement-learning
+Carpeta creada: course3\week3\09-summary-and-thank-you
+Carpeta creada: course3\week3\10-conversations-with-andrew-optional
+Carpeta creada: course3\week3\11-acknowledgments
+
+Elapsed time: 8.55 ms

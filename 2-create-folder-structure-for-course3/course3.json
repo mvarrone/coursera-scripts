@@ -1,0 +1,1889 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "L85NP",
+                "qh6uK",
+                "35VJl"
+            ],
+            "id": "hD8t4jWeEeu9vAr5jUgnDQ"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 13,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "hD8t4jWeEeu9vAr5jUgnDQ"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "SEpVK",
+                    "2UF8g"
+                ],
+                "name": "Welcome to the course!",
+                "timeCommitment": 323000,
+                "id": "YxzMP",
+                "moduleId": "L85NP",
+                "slug": "welcome-to-the-course",
+                "elementIds": [
+                    "item~SEpVK",
+                    "item~2UF8g"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "zoCuG",
+                    "xS8nN",
+                    "GwgDo",
+                    "f5G5k",
+                    "lw9LD",
+                    "LK4Zn"
+                ],
+                "name": "Clustering",
+                "timeCommitment": 2896000,
+                "id": "cB2jj",
+                "moduleId": "L85NP",
+                "slug": "clustering",
+                "elementIds": [
+                    "item~zoCuG",
+                    "item~xS8nN",
+                    "item~GwgDo",
+                    "item~f5G5k",
+                    "item~lw9LD",
+                    "item~LK4Zn"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "pThlX"
+                ],
+                "name": "Practice Quiz: Clustering",
+                "timeCommitment": 1800000,
+                "id": "bBFZm",
+                "moduleId": "L85NP",
+                "slug": "practice-quiz-clustering",
+                "elementIds": [
+                    "item~pThlX"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "hxhn9"
+                ],
+                "name": "Practice Lab 1",
+                "timeCommitment": 10800000,
+                "id": "suoEd",
+                "moduleId": "L85NP",
+                "slug": "practice-lab-1",
+                "elementIds": [
+                    "item~hxhn9"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "1FML2",
+                    "1pURx",
+                    "nZcu2",
+                    "WyzeY",
+                    "eLO9Y",
+                    "7MOXj"
+                ],
+                "name": "Anomaly detection",
+                "timeCommitment": 4128000,
+                "id": "S1Hug",
+                "moduleId": "L85NP",
+                "slug": "anomaly-detection",
+                "elementIds": [
+                    "item~1FML2",
+                    "item~1pURx",
+                    "item~nZcu2",
+                    "item~WyzeY",
+                    "item~eLO9Y",
+                    "item~7MOXj"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "afUuX"
+                ],
+                "name": "Practice quiz: Anomaly detection",
+                "timeCommitment": 1800000,
+                "id": "0JrEG",
+                "moduleId": "L85NP",
+                "slug": "practice-quiz-anomaly-detection",
+                "elementIds": [
+                    "item~afUuX"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Rqh9M"
+                ],
+                "name": "Practice Lab 2",
+                "timeCommitment": 10800000,
+                "id": "q5ttT",
+                "moduleId": "L85NP",
+                "slug": "practice-lab-2",
+                "elementIds": [
+                    "item~Rqh9M"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "cOHyS",
+                    "D3lIC",
+                    "ppY77",
+                    "e6AxK"
+                ],
+                "name": "Collaborative filtering",
+                "timeCommitment": 2350000,
+                "id": "FUbgg",
+                "moduleId": "qh6uK",
+                "slug": "collaborative-filtering",
+                "elementIds": [
+                    "item~cOHyS",
+                    "item~D3lIC",
+                    "item~ppY77",
+                    "item~e6AxK"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "yThnA"
+                ],
+                "name": "Practice quiz: Collaborative filtering",
+                "timeCommitment": 1800000,
+                "id": "lL1nX",
+                "moduleId": "qh6uK",
+                "slug": "practice-quiz-collaborative-filtering",
+                "elementIds": [
+                    "item~yThnA"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "hTjvz",
+                    "wmHWA",
+                    "pcdvC"
+                ],
+                "name": "Recommender systems implementation detail",
+                "timeCommitment": 1614000,
+                "id": "xSARm",
+                "moduleId": "qh6uK",
+                "slug": "recommender-systems-implementation-detail",
+                "elementIds": [
+                    "item~hTjvz",
+                    "item~wmHWA",
+                    "item~pcdvC"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "TldJr"
+                ],
+                "name": "Practice lab 1",
+                "timeCommitment": 10800000,
+                "id": "eQdMs",
+                "moduleId": "qh6uK",
+                "slug": "practice-lab-1",
+                "elementIds": [
+                    "item~TldJr"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Bz0pI"
+                ],
+                "name": "Practice quiz: Recommender systems implementation",
+                "timeCommitment": 1800000,
+                "id": "JuSM5",
+                "moduleId": "qh6uK",
+                "slug": "practice-quiz-recommender-systems-implementation",
+                "elementIds": [
+                    "item~Bz0pI"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "8weTz",
+                    "WIBGp",
+                    "FOMGX",
+                    "CzEzW",
+                    "72pRa"
+                ],
+                "name": "Content-based filtering",
+                "timeCommitment": 2575000,
+                "id": "S2z0K",
+                "moduleId": "qh6uK",
+                "slug": "content-based-filtering",
+                "elementIds": [
+                    "item~8weTz",
+                    "item~WIBGp",
+                    "item~FOMGX",
+                    "item~CzEzW",
+                    "item~72pRa"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Ydam1"
+                ],
+                "name": "Practice Quiz: Content-based filtering",
+                "timeCommitment": 1800000,
+                "id": "qBFLA",
+                "moduleId": "qh6uK",
+                "slug": "practice-quiz-content-based-filtering",
+                "elementIds": [
+                    "item~Ydam1"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "fJt1y"
+                ],
+                "name": "Practice lab 2",
+                "timeCommitment": 10800000,
+                "id": "gwIhK",
+                "moduleId": "qh6uK",
+                "slug": "practice-lab-2",
+                "elementIds": [
+                    "item~fJt1y"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "73zWO",
+                    "mqAH4",
+                    "2C2KO",
+                    "s45PQ"
+                ],
+                "name": "Principal Component Analysis",
+                "timeCommitment": 4276000,
+                "id": "g9ID7",
+                "moduleId": "qh6uK",
+                "slug": "principal-component-analysis",
+                "elementIds": [
+                    "item~73zWO",
+                    "item~mqAH4",
+                    "item~2C2KO",
+                    "item~s45PQ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "RrrOL",
+                    "UrcMA",
+                    "5SCL1",
+                    "BsteY",
+                    "fvSTb"
+                ],
+                "name": "Reinforcement learning introduction",
+                "timeCommitment": 2038000,
+                "id": "N80q0",
+                "moduleId": "35VJl",
+                "slug": "reinforcement-learning-introduction",
+                "elementIds": [
+                    "item~RrrOL",
+                    "item~UrcMA",
+                    "item~5SCL1",
+                    "item~BsteY",
+                    "item~fvSTb"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "522R6"
+                ],
+                "name": "Practice quiz: Reinforcement learning introduction",
+                "timeCommitment": 1800000,
+                "id": "SsSIe",
+                "moduleId": "35VJl",
+                "slug": "practice-quiz-reinforcement-learning-introduction",
+                "elementIds": [
+                    "item~522R6"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "FEU97",
+                    "NG3vW",
+                    "X09lt",
+                    "3Wpee",
+                    "rL525"
+                ],
+                "name": "State-action value function",
+                "timeCommitment": 5834000,
+                "id": "fPHqj",
+                "moduleId": "35VJl",
+                "slug": "state-action-value-function",
+                "elementIds": [
+                    "item~FEU97",
+                    "item~NG3vW",
+                    "item~X09lt",
+                    "item~3Wpee",
+                    "item~rL525"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "yGtub"
+                ],
+                "name": "Quiz: State-action value function",
+                "timeCommitment": 1800000,
+                "id": "D8uhp",
+                "moduleId": "35VJl",
+                "slug": "quiz-state-action-value-function",
+                "elementIds": [
+                    "item~yGtub"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "kVphz",
+                    "C9BJf",
+                    "EH7Zf",
+                    "hpmUe",
+                    "GyBzo",
+                    "TsaXj",
+                    "uqtNp"
+                ],
+                "name": "Continuous state spaces",
+                "timeCommitment": 3343000,
+                "id": "kAJ5x",
+                "moduleId": "35VJl",
+                "slug": "continuous-state-spaces",
+                "elementIds": [
+                    "item~kVphz",
+                    "item~C9BJf",
+                    "item~EH7Zf",
+                    "item~hpmUe",
+                    "item~GyBzo",
+                    "item~TsaXj",
+                    "item~uqtNp"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "dLfZs"
+                ],
+                "name": "Quiz: Continuous state spaces",
+                "timeCommitment": 1800000,
+                "id": "y8zkR",
+                "moduleId": "35VJl",
+                "slug": "quiz-continuous-state-spaces",
+                "elementIds": [
+                    "item~dLfZs"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "q4fF8"
+                ],
+                "name": "End of Access to Lab Notebooks",
+                "timeCommitment": 120000,
+                "id": "pmUr2",
+                "moduleId": "35VJl",
+                "slug": "end-of-access-to-lab-notebooks",
+                "elementIds": [
+                    "item~q4fF8"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "q5vKI"
+                ],
+                "name": "Practice Lab: Reinforcement Learning",
+                "timeCommitment": 10800000,
+                "id": "6cXBX",
+                "moduleId": "35VJl",
+                "slug": "practice-lab-reinforcement-learning",
+                "elementIds": [
+                    "item~q5vKI"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "ZNo1X"
+                ],
+                "name": "Summary and thank you",
+                "timeCommitment": 191000,
+                "id": "JLTbx",
+                "moduleId": "35VJl",
+                "slug": "summary-and-thank-you",
+                "elementIds": [
+                    "item~ZNo1X"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "vN4Mf"
+                ],
+                "name": "Conversations with Andrew (Optional)",
+                "timeCommitment": 1998000,
+                "id": "drSYO",
+                "moduleId": "35VJl",
+                "slug": "conversations-with-andrew-optional",
+                "elementIds": [
+                    "item~vN4Mf"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "dogoE",
+                    "eqe8s"
+                ],
+                "name": "Acknowledgments",
+                "timeCommitment": 180000,
+                "id": "ObHl9",
+                "moduleId": "35VJl",
+                "slug": "acknowledgments",
+                "elementIds": [
+                    "item~dogoE",
+                    "item~eqe8s"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Welcome!",
+                "lessonId": "YxzMP",
+                "timeCommitment": 203000,
+                "id": "SEpVK",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 203000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "welcome"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "YxzMP",
+                "timeCommitment": 120000,
+                "id": "2UF8g",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is clustering?",
+                "lessonId": "cB2jj",
+                "timeCommitment": 251000,
+                "id": "zoCuG",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 251000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-is-clustering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "K-means intuition",
+                "lessonId": "cB2jj",
+                "timeCommitment": 409000,
+                "id": "xS8nN",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 409000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "k-means-intuition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "K-means algorithm",
+                "lessonId": "cB2jj",
+                "timeCommitment": 589000,
+                "id": "GwgDo",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 589000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "k-means-algorithm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Optimization objective",
+                "lessonId": "cB2jj",
+                "timeCommitment": 672000,
+                "id": "f5G5k",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 672000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "optimization-objective"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Initializing K-means",
+                "lessonId": "cB2jj",
+                "timeCommitment": 533000,
+                "id": "lw9LD",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 533000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "initializing-k-means"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Choosing the number of clusters",
+                "lessonId": "cB2jj",
+                "timeCommitment": 442000,
+                "id": "LK4Zn",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 442000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "choosing-the-number-of-clusters"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "bBFZm",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Clustering",
+                "id": "pThlX",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 5,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 4,
+                        "maxScore": 5,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "clustering"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "suoEd",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "k-means",
+                "id": "hxhn9",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "k-means"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Finding unusual events",
+                "lessonId": "S1Hug",
+                "timeCommitment": 701000,
+                "id": "1FML2",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 701000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "finding-unusual-events"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gaussian (normal) distribution",
+                "lessonId": "S1Hug",
+                "timeCommitment": 639000,
+                "id": "1pURx",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 639000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gaussian-normal-distribution"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Anomaly detection algorithm",
+                "lessonId": "S1Hug",
+                "timeCommitment": 708000,
+                "id": "nZcu2",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 708000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "anomaly-detection-algorithm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Developing and evaluating an anomaly detection system",
+                "lessonId": "S1Hug",
+                "timeCommitment": 698000,
+                "id": "WyzeY",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 698000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "developing-and-evaluating-an-anomaly-detection-system"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Anomaly detection vs. supervised learning",
+                "lessonId": "S1Hug",
+                "timeCommitment": 488000,
+                "id": "eLO9Y",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 488000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "anomaly-detection-vs-supervised-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Choosing what features to use",
+                "lessonId": "S1Hug",
+                "timeCommitment": 894000,
+                "id": "7MOXj",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 894000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "choosing-what-features-to-use"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "0JrEG",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Anomaly detection",
+                "id": "afUuX",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 5,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 4,
+                        "maxScore": 5,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "anomaly-detection"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "q5ttT",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Anomaly Detection",
+                "id": "Rqh9M",
+                "moduleId": "L85NP",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "anomaly-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Making recommendations",
+                "lessonId": "FUbgg",
+                "timeCommitment": 332000,
+                "id": "cOHyS",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 332000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "making-recommendations"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Using per-item features",
+                "lessonId": "FUbgg",
+                "timeCommitment": 676000,
+                "id": "D3lIC",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 676000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "using-per-item-features"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Collaborative filtering algorithm",
+                "lessonId": "FUbgg",
+                "timeCommitment": 835000,
+                "id": "ppY77",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 835000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "collaborative-filtering-algorithm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Binary labels: favs, likes and clicks",
+                "lessonId": "FUbgg",
+                "timeCommitment": 507000,
+                "id": "e6AxK",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 507000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "binary-labels-favs-likes-and-clicks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "lL1nX",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Collaborative Filtering",
+                "id": "yThnA",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 4,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 3.2,
+                        "maxScore": 4,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "collaborative-filtering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Mean normalization",
+                "lessonId": "xSARm",
+                "timeCommitment": 525000,
+                "id": "hTjvz",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 525000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "mean-normalization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "TensorFlow implementation of collaborative filtering",
+                "lessonId": "xSARm",
+                "timeCommitment": 697000,
+                "id": "wmHWA",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 697000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "tensorflow-implementation-of-collaborative-filtering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Finding related items",
+                "lessonId": "xSARm",
+                "timeCommitment": 392000,
+                "id": "pcdvC",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 392000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "finding-related-items"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "eQdMs",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Collaborative Filtering Recommender Systems",
+                "id": "TldJr",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "collaborative-filtering-recommender-systems"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "JuSM5",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Recommender systems implementation",
+                "id": "Bz0pI",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 4,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 3.2,
+                        "maxScore": 4,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "recommender-systems-implementation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Collaborative filtering vs Content-based filtering",
+                "lessonId": "S2z0K",
+                "timeCommitment": 585000,
+                "id": "8weTz",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 585000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "collaborative-filtering-vs-content-based-filtering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Deep learning for content-based filtering",
+                "lessonId": "S2z0K",
+                "timeCommitment": 582000,
+                "id": "WIBGp",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 582000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "deep-learning-for-content-based-filtering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Recommending from a large catalogue",
+                "lessonId": "S2z0K",
+                "timeCommitment": 472000,
+                "id": "FOMGX",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 472000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "recommending-from-a-large-catalogue"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Ethical use of recommender systems",
+                "lessonId": "S2z0K",
+                "timeCommitment": 648000,
+                "id": "CzEzW",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 648000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "ethical-use-of-recommender-systems"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "TensorFlow implementation of content-based filtering",
+                "lessonId": "S2z0K",
+                "timeCommitment": 288000,
+                "id": "72pRa",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 288000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "tensorflow-implementation-of-content-based-filtering"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "qBFLA",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Content-based filtering",
+                "id": "Ydam1",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 5,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 4,
+                        "maxScore": 5,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "content-based-filtering"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "gwIhK",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Deep Learning for Content-Based Filtering",
+                "id": "fJt1y",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "deep-learning-for-content-based-filtering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Reducing the number of features (optional)",
+                "lessonId": "g9ID7",
+                "timeCommitment": 743000,
+                "id": "73zWO",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 743000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "reducing-the-number-of-features-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "PCA algorithm (optional)",
+                "lessonId": "g9ID7",
+                "timeCommitment": 1070000,
+                "id": "mqAH4",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1070000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "pca-algorithm-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "PCA in code (optional)",
+                "lessonId": "g9ID7",
+                "timeCommitment": 663000,
+                "id": "2C2KO",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 663000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "pca-in-code-optional"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "g9ID7",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "PCA and data visualization (optional)",
+                "id": "s45PQ",
+                "moduleId": "qh6uK",
+                "contentSummary": {
+                    "typeName": "ungradedLab",
+                    "definition": {}
+                },
+                "slug": "pca-and-data-visualization-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is Reinforcement Learning?",
+                "lessonId": "N80q0",
+                "timeCommitment": 528000,
+                "id": "RrrOL",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 528000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-is-reinforcement-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Mars rover example",
+                "lessonId": "N80q0",
+                "timeCommitment": 401000,
+                "id": "UrcMA",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 401000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "mars-rover-example"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "The Return in reinforcement learning",
+                "lessonId": "N80q0",
+                "timeCommitment": 618000,
+                "id": "5SCL1",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 618000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "the-return-in-reinforcement-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Making decisions: Policies in reinforcement learning",
+                "lessonId": "N80q0",
+                "timeCommitment": 157000,
+                "id": "BsteY",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 157000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "making-decisions-policies-in-reinforcement-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Review of key concepts",
+                "lessonId": "N80q0",
+                "timeCommitment": 334000,
+                "id": "fvSTb",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 334000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "review-of-key-concepts"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "SsSIe",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Reinforcement learning introduction",
+                "id": "522R6",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 4,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 3.2,
+                        "maxScore": 4,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "reinforcement-learning-introduction"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "State-action value function definition",
+                "lessonId": "fPHqj",
+                "timeCommitment": 636000,
+                "id": "FEU97",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 636000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "state-action-value-function-definition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "State-action value function example",
+                "lessonId": "fPHqj",
+                "timeCommitment": 322000,
+                "id": "NG3vW",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 322000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "state-action-value-function-example"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "fPHqj",
+                "timeCommitment": 3600000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "State-action value function (optional lab)",
+                "id": "X09lt",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "ungradedLab",
+                    "definition": {}
+                },
+                "slug": "state-action-value-function-optional-lab"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bellman Equation",
+                "lessonId": "fPHqj",
+                "timeCommitment": 772000,
+                "id": "3Wpee",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 772000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bellman-equation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Random (stochastic) environment (Optional)",
+                "lessonId": "fPHqj",
+                "timeCommitment": 504000,
+                "id": "rL525",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 504000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "random-stochastic-environment-optional"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "D8uhp",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "State-action value function",
+                "id": "yGtub",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 3,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 2.4000000000000004,
+                        "maxScore": 3,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "state-action-value-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Example of continuous state space applications",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 384000,
+                "id": "kVphz",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 384000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "example-of-continuous-state-space-applications"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lunar lander",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 353000,
+                "id": "C9BJf",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 353000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "lunar-lander"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Learning the state-value function",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 1010000,
+                "id": "EH7Zf",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1010000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "learning-the-state-value-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Algorithm refinement: Improved neural network architecture",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 180000,
+                "id": "hpmUe",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 180000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "algorithm-refinement-improved-neural-network-architecture"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Algorithm refinement: ϵ-greedy policy",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 539000,
+                "id": "GyBzo",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 539000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "algorithm-refinement-greedy-policy"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Algorithm refinement:  Mini-batch and soft updates (optional)",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 703000,
+                "id": "TsaXj",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 703000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "algorithm-refinement-mini-batch-and-soft-updates-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "The state of reinforcement learning",
+                "lessonId": "kAJ5x",
+                "timeCommitment": 174000,
+                "id": "uqtNp",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 174000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "the-state-of-reinforcement-learning"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "y8zkR",
+                "timeCommitment": 1800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Continuous state spaces",
+                "id": "dLfZs",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "exam",
+                    "definition": {
+                        "questionCount": 3,
+                        "containsWidgetQuestions": false,
+                        "allowedSubmissionsInterval": 28800000,
+                        "requiredMobileCapabilities": [],
+                        "allowedSubmissionsPerInterval": 3,
+                        "passingScore": 2.4000000000000004,
+                        "maxScore": 3,
+                        "passingFraction": 0.8
+                    }
+                },
+                "slug": "continuous-state-spaces"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Reminder about end of access to Lab Notebooks",
+                "lessonId": "pmUr2",
+                "timeCommitment": 120000,
+                "id": "q4fF8",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-reminder-about-end-of-access-to-lab-notebooks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "6cXBX",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Reinforcement Learning",
+                "id": "q5vKI",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "reinforcement-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Summary and thank you",
+                "lessonId": "JLTbx",
+                "timeCommitment": 191000,
+                "id": "ZNo1X",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 191000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "summary-and-thank-you"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Andrew Ng and Chelsea Finn on AI and Robotics",
+                "lessonId": "drSYO",
+                "timeCommitment": 1998000,
+                "id": "vN4Mf",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1998000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "andrew-ng-and-chelsea-finn-on-ai-and-robotics"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "ObHl9",
+                "timeCommitment": 120000,
+                "id": "dogoE",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Opportunity to Mentor Other Learners",
+                "lessonId": "ObHl9",
+                "timeCommitment": 60000,
+                "id": "eqe8s",
+                "moduleId": "35VJl",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-opportunity-to-mentor-other-learners"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "jk9CLvjEEey1dxIpD2Mb2w",
+                    "jtghQPjEEey1dxIpD2Mb2w",
+                    "j1L2kfjEEey1dxIpD2Mb2w",
+                    "j9sRtvjEEeyw9A6eYjUBPQ",
+                    "kE2qQvjEEey1dxIpD2Mb2w",
+                    "kN4qKvjEEey1WQog3D5jPw",
+                    "n20dIPvqEeyqjBKQhJQbiQ",
+                    "n28ZHfvqEeyw9A6eYjUBPQ"
+                ],
+                "name": "Unsupervised learning",
+                "description": "This week, you will learn two key unsupervised learning algorithms: clustering and anomaly detection",
+                "timeCommitment": 32547000,
+                "id": "L85NP",
+                "lessonIds": [
+                    "YxzMP",
+                    "cB2jj",
+                    "bBFZm",
+                    "suoEd",
+                    "S1Hug",
+                    "0JrEG",
+                    "q5ttT"
+                ],
+                "slug": "unsupervised-learning"
+            },
+            {
+                "learningObjectives": [
+                    "kVw0E_jEEey1dxIpD2Mb2w",
+                    "keKh2_jEEey1WQog3D5jPw",
+                    "koEEZ_jEEeyw9A6eYjUBPQ"
+                ],
+                "name": "Recommender systems",
+                "description": "",
+                "timeCommitment": 37815000,
+                "id": "qh6uK",
+                "lessonIds": [
+                    "FUbgg",
+                    "lL1nX",
+                    "xSARm",
+                    "eQdMs",
+                    "JuSM5",
+                    "S2z0K",
+                    "qBFLA",
+                    "gwIhK",
+                    "g9ID7"
+                ],
+                "slug": "recommender-systems"
+            },
+            {
+                "learningObjectives": [
+                    "kv5xyfjEEeyw9A6eYjUBPQ",
+                    "k4V8bPjEEey1WQog3D5jPw",
+                    "lAcIxfjEEey1dxIpD2Mb2w",
+                    "lIyzPvjEEey1WQog3D5jPw",
+                    "lQtZH_jEEey1WQog3D5jPw"
+                ],
+                "name": "Reinforcement learning",
+                "description": "This week, you will learn about reinforcement learning, and build a deep Q-learning neural network in order to land a virtual lunar lander on Mars!",
+                "timeCommitment": 29904000,
+                "id": "35VJl",
+                "lessonIds": [
+                    "N80q0",
+                    "SsSIe",
+                    "fPHqj",
+                    "D8uhp",
+                    "kAJ5x",
+                    "y8zkR",
+                    "pmUr2",
+                    "6cXBX",
+                    "JLTbx",
+                    "drSYO",
+                    "ObHl9"
+                ],
+                "slug": "reinforcement-learning"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~pThlX"
+            },
+            {
+                "gradingWeight": 1400,
+                "isRequiredForPassing": false,
+                "id": "item~hxhn9"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~afUuX"
+            },
+            {
+                "gradingWeight": 1400,
+                "isRequiredForPassing": false,
+                "id": "item~Rqh9M"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~yThnA"
+            },
+            {
+                "gradingWeight": 1400,
+                "isRequiredForPassing": false,
+                "id": "item~TldJr"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~Bz0pI"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~Ydam1"
+            },
+            {
+                "gradingWeight": 1400,
+                "isRequiredForPassing": false,
+                "id": "item~fJt1y"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~522R6"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~yGtub"
+            },
+            {
+                "gradingWeight": 300,
+                "isRequiredForPassing": false,
+                "id": "item~dLfZs"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 2000,
+                "id": "item~q5vKI"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "hD8t4jWeEeu9vAr5jUgnDQ"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}
