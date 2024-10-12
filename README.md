@@ -8,4 +8,6 @@ Automate the process of creating a folder structure by using a Python3 script. T
 
 Automate the process of creating a folder structure by using a Python3 script. This is really useful when taking a Coursera course and want to have all of the lectures in an organized way.
 
-Applicable for course 3 in the specialization. Method to obtain the important data has changed from Coursera and a solution it is provided in this repo.
+Applicable for course 3 in the specialization and for the following ones
+
+The method to obtain the important data has changed from Coursera and a solution is provided in this repo.
