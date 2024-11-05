@@ -1,0 +1,20 @@
+./course3.json
+course3.json
+course3
+Carpeta creada: course3\week1\01-introduction-to-ml-strategy
+Carpeta creada: course3\week1\02-connect-with-your-mentors-and-fellow-learners-on-our-forum
+Carpeta creada: course3\week1\03-setting-up-your-goal
+Carpeta creada: course3\week1\04-comparing-to-human-level-performance
+Carpeta creada: course3\week1\05-lecture-notes-optional
+Carpeta creada: course3\week1\06-machine-learning-flight-simulator-quiz
+Carpeta creada: course3\week1\07-heroes-of-deep-learning-optional
+Carpeta creada: course3\week2\01-error-analysis
+Carpeta creada: course3\week2\02-mismatched-training-and-dev-test-set
+Carpeta creada: course3\week2\03-learning-from-multiple-tasks
+Carpeta creada: course3\week2\04-end-to-end-deep-learning
+Carpeta creada: course3\week2\05-lecture-notes-optional
+Carpeta creada: course3\week2\06-machine-learning-flight-simulator-quiz
+Carpeta creada: course3\week2\07-heroes-of-deep-learning-optional
+Carpeta creada: course3\week2\08-acknowledgments
+
+Elapsed time: 13.61 ms

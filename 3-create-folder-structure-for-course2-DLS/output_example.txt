@@ -1,0 +1,27 @@
+./course2.json
+course2.json
+course2
+Carpeta creada: course2\week1\01-setting-up-your-machine-learning-application
+Carpeta creada: course2\week1\02-connect-with-your-mentors-and-fellow-learners-on-our-forum
+Carpeta creada: course2\week1\03-regularizing-your-neural-network
+Carpeta creada: course2\week1\04-setting-up-your-optimization-problem
+Carpeta creada: course2\week1\05-lecture-notes-optional
+Carpeta creada: course2\week1\06-quiz
+Carpeta creada: course2\week1\07-programming-assignments
+Carpeta creada: course2\week1\08-heroes-of-deep-learning-optional
+Carpeta creada: course2\week2\01-optimization-algorithms
+Carpeta creada: course2\week2\02-lecture-notes-optional
+Carpeta creada: course2\week2\03-quiz
+Carpeta creada: course2\week2\04-programming-assignment
+Carpeta creada: course2\week2\05-heroes-of-deep-learning-optional
+Carpeta creada: course2\week3\01-hyperparameter-tuning
+Carpeta creada: course2\week3\02-batch-normalization
+Carpeta creada: course2\week3\03-multi-class-classification
+Carpeta creada: course2\week3\04-introduction-to-programming-frameworks
+Carpeta creada: course2\week3\05-lecture-notes-optional
+Carpeta creada: course2\week3\06-quiz
+Carpeta creada: course2\week3\07-end-of-access-to-lab-notebooks
+Carpeta creada: course2\week3\08-programming-assignment
+Carpeta creada: course2\week3\09-references-acknowledgments
+
+Elapsed time: 19.54 ms

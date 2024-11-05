@@ -1,0 +1,26 @@
+./course4.json
+course4.json
+course4
+Carpeta creada: course4\week1\01-convolutional-neural-networks
+Carpeta creada: course4\week1\02-lecture-notes-optional
+Carpeta creada: course4\week1\03-quiz
+Carpeta creada: course4\week1\04-programming-assignments
+Carpeta creada: course4\week1\05-heroes-of-deep-learning-optional
+Carpeta creada: course4\week2\01-case-studies
+Carpeta creada: course4\week2\02-practical-advice-for-using-convnets
+Carpeta creada: course4\week2\03-lecture-notes-optional
+Carpeta creada: course4\week2\04-quiz
+Carpeta creada: course4\week2\05-programming-assignments
+Carpeta creada: course4\week3\01-detection-algorithms
+Carpeta creada: course4\week3\02-lecture-notes-optional
+Carpeta creada: course4\week3\03-quiz
+Carpeta creada: course4\week3\04-programming-assignments
+Carpeta creada: course4\week4\01-face-recognition
+Carpeta creada: course4\week4\02-neural-style-transfer
+Carpeta creada: course4\week4\03-lecture-notes-optional
+Carpeta creada: course4\week4\04-quiz
+Carpeta creada: course4\week4\05-end-of-access-to-lab-notebooks
+Carpeta creada: course4\week4\06-programming-assignments
+Carpeta creada: course4\week4\07-references-acknowledgments
+
+Elapsed time: 31.75 ms

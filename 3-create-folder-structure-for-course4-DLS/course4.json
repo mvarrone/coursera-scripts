@@ -1,0 +1,2099 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "v1t0U",
+                "UzkBp",
+                "3JCO4",
+                "M30a4"
+            ],
+            "id": "kWGvJivBEeeW5RJUyz1uFA"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 12,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "kWGvJivBEeeW5RJUyz1uFA"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Ob1nR",
+                    "4Trod",
+                    "8Donz",
+                    "o7CWi",
+                    "iKnrR",
+                    "wfUhx",
+                    "ctQZz",
+                    "nsiuW",
+                    "X1Rhu",
+                    "A9lXL",
+                    "hELHk",
+                    "4WJgu",
+                    "uRYL1",
+                    "mficY",
+                    "Xv7B5"
+                ],
+                "name": "Convolutional Neural Networks",
+                "timeCommitment": 7022000,
+                "id": "RMVfW",
+                "moduleId": "v1t0U",
+                "slug": "convolutional-neural-networks",
+                "elementIds": [
+                    "item~Ob1nR",
+                    "item~4Trod",
+                    "item~8Donz",
+                    "item~o7CWi",
+                    "item~iKnrR",
+                    "item~wfUhx",
+                    "item~ctQZz",
+                    "item~nsiuW",
+                    "item~X1Rhu",
+                    "item~A9lXL",
+                    "item~hELHk",
+                    "item~4WJgu",
+                    "item~uRYL1",
+                    "item~mficY",
+                    "item~Xv7B5"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "mTJuO"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "FY6tc",
+                "moduleId": "v1t0U",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~mTJuO"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "jlqZk"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "BPN8Z",
+                "moduleId": "v1t0U",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~jlqZk"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "b6TbJ",
+                    "4xt9A",
+                    "7Bfm2"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 21900000,
+                "id": "TG2IR",
+                "moduleId": "v1t0U",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~b6TbJ",
+                    "item~4xt9A",
+                    "item~7Bfm2"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "4PnfT"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 1668000,
+                "id": "QJaVi",
+                "moduleId": "v1t0U",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~4PnfT"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "KvAM9",
+                    "MmYe2",
+                    "HAhz9",
+                    "XAKNO",
+                    "ZTb8x",
+                    "NTidE",
+                    "5WIZm",
+                    "piR0x",
+                    "B1kPZ",
+                    "9BqTk",
+                    "ZmOWP"
+                ],
+                "name": "Case Studies",
+                "timeCommitment": 5537000,
+                "id": "Il3pv",
+                "moduleId": "UzkBp",
+                "slug": "case-studies",
+                "elementIds": [
+                    "item~KvAM9",
+                    "item~MmYe2",
+                    "item~HAhz9",
+                    "item~XAKNO",
+                    "item~ZTb8x",
+                    "item~NTidE",
+                    "item~5WIZm",
+                    "item~piR0x",
+                    "item~B1kPZ",
+                    "item~9BqTk",
+                    "item~ZmOWP"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "WzFCr",
+                    "4THzO",
+                    "AYzbX",
+                    "D9ra2"
+                ],
+                "name": "Practical Advice for Using ConvNets",
+                "timeCommitment": 2151000,
+                "id": "hHoTL",
+                "moduleId": "UzkBp",
+                "slug": "practical-advice-for-using-convnets",
+                "elementIds": [
+                    "item~WzFCr",
+                    "item~4THzO",
+                    "item~AYzbX",
+                    "item~D9ra2"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "sSX3z"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "ezScV",
+                "moduleId": "UzkBp",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~sSX3z"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "40woH"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "2sKyg",
+                "moduleId": "UzkBp",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~40woH"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "CxKVT",
+                    "Oluli",
+                    "nZima"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 21660000,
+                "id": "SmnsJ",
+                "moduleId": "UzkBp",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~CxKVT",
+                    "item~Oluli",
+                    "item~nZima"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "nEeJM",
+                    "OkD3X",
+                    "VgyWR",
+                    "lk021",
+                    "6UnU4",
+                    "9EcTO",
+                    "p9gxz",
+                    "dvrjH",
+                    "yNwO0",
+                    "l4SFt",
+                    "fF3O0",
+                    "aCYZv",
+                    "rEYzz",
+                    "kyoqR",
+                    "Vw8sl",
+                    "GIIWY"
+                ],
+                "name": "Detection Algorithms",
+                "timeCommitment": 6737000,
+                "id": "L95LZ",
+                "moduleId": "3JCO4",
+                "slug": "detection-algorithms",
+                "elementIds": [
+                    "item~nEeJM",
+                    "item~OkD3X",
+                    "item~VgyWR",
+                    "item~lk021",
+                    "item~6UnU4",
+                    "item~9EcTO",
+                    "item~p9gxz",
+                    "item~dvrjH",
+                    "item~yNwO0",
+                    "item~l4SFt",
+                    "item~fF3O0",
+                    "item~aCYZv",
+                    "item~rEYzz",
+                    "item~kyoqR",
+                    "item~Vw8sl",
+                    "item~GIIWY"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "7yObP"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "3JSsB",
+                "moduleId": "3JCO4",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~7yObP"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "hD0qO"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "hx4M9",
+                "moduleId": "3JCO4",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~hD0qO"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "3VCFG",
+                    "CqMzb",
+                    "omqTR"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 22200000,
+                "id": "zoHV4",
+                "moduleId": "3JCO4",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~3VCFG",
+                    "item~CqMzb",
+                    "item~omqTR"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "lUBYU",
+                    "gjckG",
+                    "bjhmj",
+                    "HuUtN",
+                    "q3hBe",
+                    "xTihv"
+                ],
+                "name": "Face Recognition",
+                "timeCommitment": 2161000,
+                "id": "2klQB",
+                "moduleId": "M30a4",
+                "slug": "face-recognition",
+                "elementIds": [
+                    "item~lUBYU",
+                    "item~gjckG",
+                    "item~bjhmj",
+                    "item~HuUtN",
+                    "item~q3hBe",
+                    "item~xTihv"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "SA5H8",
+                    "GboGx",
+                    "jOnEU",
+                    "CvHv6",
+                    "p9Zdf",
+                    "AzcCW",
+                    "OkHJ3"
+                ],
+                "name": "Neural Style Transfer",
+                "timeCommitment": 2460000,
+                "id": "IpiBx",
+                "moduleId": "M30a4",
+                "slug": "neural-style-transfer",
+                "elementIds": [
+                    "item~SA5H8",
+                    "item~GboGx",
+                    "item~jOnEU",
+                    "item~CvHv6",
+                    "item~p9Zdf",
+                    "item~AzcCW",
+                    "item~OkHJ3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "ZvFep"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "NVkrI",
+                "moduleId": "M30a4",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~ZvFep"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "61BHW"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "de4Va",
+                "moduleId": "M30a4",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~61BHW"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "sroEJ"
+                ],
+                "name": "End of access to Lab Notebooks",
+                "timeCommitment": 120000,
+                "id": "f9rdA",
+                "moduleId": "M30a4",
+                "slug": "end-of-access-to-lab-notebooks",
+                "elementIds": [
+                    "item~sroEJ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "OgKZl",
+                    "4AZ8P"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 21600000,
+                "id": "7zys7",
+                "moduleId": "M30a4",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~OgKZl",
+                    "item~4AZ8P"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "oGuyV",
+                    "xxIAa"
+                ],
+                "name": "References & Acknowledgments",
+                "timeCommitment": 1200000,
+                "id": "mm7bq",
+                "moduleId": "M30a4",
+                "slug": "references-acknowledgments",
+                "elementIds": [
+                    "item~oGuyV",
+                    "item~xxIAa"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Computer Vision",
+                "lessonId": "RMVfW",
+                "timeCommitment": 343000,
+                "id": "Ob1nR",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 343000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "computer-vision"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Edge Detection Example",
+                "lessonId": "RMVfW",
+                "timeCommitment": 690000,
+                "id": "4Trod",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 690000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "edge-detection-example"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "More Edge Detection",
+                "lessonId": "RMVfW",
+                "timeCommitment": 477000,
+                "id": "8Donz",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 477000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "more-edge-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Padding",
+                "lessonId": "RMVfW",
+                "timeCommitment": 589000,
+                "id": "o7CWi",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 589000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "padding"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "RMVfW",
+                "timeCommitment": 120000,
+                "id": "iKnrR",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Strided Convolutions",
+                "lessonId": "RMVfW",
+                "timeCommitment": 537000,
+                "id": "wfUhx",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 537000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "strided-convolutions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Convolutions Over Volume",
+                "lessonId": "RMVfW",
+                "timeCommitment": 644000,
+                "id": "ctQZz",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 644000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "convolutions-over-volume"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "One Layer of a Convolutional Network",
+                "lessonId": "RMVfW",
+                "timeCommitment": 970000,
+                "id": "nsiuW",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 970000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "one-layer-of-a-convolutional-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Simple Convolutional Network Example Video",
+                "lessonId": "RMVfW",
+                "timeCommitment": 60000,
+                "id": "X1Rhu",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-simple-convolutional-network-example-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Simple Convolutional Network Example",
+                "lessonId": "RMVfW",
+                "timeCommitment": 511000,
+                "id": "A9lXL",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 511000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "simple-convolutional-network-example"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Pooling Layers",
+                "lessonId": "RMVfW",
+                "timeCommitment": 625000,
+                "id": "hELHk",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 625000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "pooling-layers"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming CNN Example Video",
+                "lessonId": "RMVfW",
+                "timeCommitment": 60000,
+                "id": "4WJgu",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-cnn-example-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "CNN Example",
+                "lessonId": "RMVfW",
+                "timeCommitment": 756000,
+                "id": "uRYL1",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 756000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "cnn-example"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Why Convolutions?",
+                "lessonId": "RMVfW",
+                "timeCommitment": 60000,
+                "id": "mficY",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-why-convolutions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why Convolutions?",
+                "lessonId": "RMVfW",
+                "timeCommitment": 580000,
+                "id": "Xv7B5",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 580000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-convolutions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W1",
+                "lessonId": "FY6tc",
+                "timeCommitment": 60000,
+                "id": "mTJuO",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w1"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "BPN8Z",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "The Basics of ConvNets ",
+                "id": "jlqZk",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "the-basics-of-convnets"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace",
+                "lessonId": "TG2IR",
+                "timeCommitment": 300000,
+                "id": "b6TbJ",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-downloading-your-notebook-downloading-your-workspace-and-refreshing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "TG2IR",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Convolutional Model, Step by Step",
+                "id": "4xt9A",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "convolutional-model-step-by-step"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "TG2IR",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Convolution Model Application",
+                "id": "7Bfm2",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "convolution-model-application"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Yann LeCun Interview",
+                "lessonId": "QJaVi",
+                "timeCommitment": 1668000,
+                "id": "4PnfT",
+                "moduleId": "v1t0U",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1668000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "yann-lecun-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why look at case studies?",
+                "lessonId": "Il3pv",
+                "timeCommitment": 177000,
+                "id": "KvAM9",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 177000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-look-at-case-studies"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Classic Networks",
+                "lessonId": "Il3pv",
+                "timeCommitment": 1098000,
+                "id": "MmYe2",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1098000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "classic-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "ResNets",
+                "lessonId": "Il3pv",
+                "timeCommitment": 427000,
+                "id": "HAhz9",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 427000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "resnets"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why ResNets Work?",
+                "lessonId": "Il3pv",
+                "timeCommitment": 552000,
+                "id": "XAKNO",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 552000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-resnets-work"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Networks in Networks and 1x1 Convolutions",
+                "lessonId": "Il3pv",
+                "timeCommitment": 375000,
+                "id": "ZTb8x",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 375000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "networks-in-networks-and-1x1-convolutions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Inception Network Motivation Video",
+                "lessonId": "Il3pv",
+                "timeCommitment": 60000,
+                "id": "NTidE",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-inception-network-motivation-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Inception Network Motivation",
+                "lessonId": "Il3pv",
+                "timeCommitment": 614000,
+                "id": "5WIZm",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 614000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "inception-network-motivation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Inception Network",
+                "lessonId": "Il3pv",
+                "timeCommitment": 525000,
+                "id": "piR0x",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 525000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "inception-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "MobileNet",
+                "lessonId": "Il3pv",
+                "timeCommitment": 978000,
+                "id": "B1kPZ",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 978000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "mobilenet"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "MobileNet Architecture",
+                "lessonId": "Il3pv",
+                "timeCommitment": 512000,
+                "id": "9BqTk",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 512000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "mobilenet-architecture"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "EfficientNet",
+                "lessonId": "Il3pv",
+                "timeCommitment": 219000,
+                "id": "ZmOWP",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 219000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "efficientnet"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Using Open-Source Implementation",
+                "lessonId": "hHoTL",
+                "timeCommitment": 296000,
+                "id": "WzFCr",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 296000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "using-open-source-implementation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Transfer Learning",
+                "lessonId": "hHoTL",
+                "timeCommitment": 527000,
+                "id": "4THzO",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 527000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "transfer-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Data Augmentation",
+                "lessonId": "hHoTL",
+                "timeCommitment": 571000,
+                "id": "AYzbX",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 571000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "data-augmentation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "State of Computer Vision",
+                "lessonId": "hHoTL",
+                "timeCommitment": 757000,
+                "id": "D9ra2",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 757000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "state-of-computer-vision"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W2",
+                "lessonId": "ezScV",
+                "timeCommitment": 60000,
+                "id": "sSX3z",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w2"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "2sKyg",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Deep Convolutional Models ",
+                "id": "40woH",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "deep-convolutional-models"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Note on the Upcoming Programming Assignment - Residual Networks",
+                "lessonId": "SmnsJ",
+                "timeCommitment": 60000,
+                "id": "CxKVT",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "note-on-the-upcoming-programming-assignment-residual-networks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "SmnsJ",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Residual Networks",
+                "id": "Oluli",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "residual-networks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "SmnsJ",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transfer Learning with MobileNet",
+                "id": "nZima",
+                "moduleId": "UzkBp",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "transfer-learning-with-mobilenet"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Object Localization",
+                "lessonId": "L95LZ",
+                "timeCommitment": 713000,
+                "id": "nEeJM",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 713000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "object-localization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Landmark Detection",
+                "lessonId": "L95LZ",
+                "timeCommitment": 356000,
+                "id": "OkD3X",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 356000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "landmark-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Object Detection",
+                "lessonId": "L95LZ",
+                "timeCommitment": 348000,
+                "id": "VgyWR",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 348000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "object-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Convolutional Implementation of Sliding Windows Video",
+                "lessonId": "L95LZ",
+                "timeCommitment": 60000,
+                "id": "lk021",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-convolutional-implementation-of-sliding-windows"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Convolutional Implementation of Sliding Windows",
+                "lessonId": "L95LZ",
+                "timeCommitment": 668000,
+                "id": "6UnU4",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 668000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "convolutional-implementation-of-sliding-windows"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bounding Box Predictions",
+                "lessonId": "L95LZ",
+                "timeCommitment": 870000,
+                "id": "9EcTO",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 870000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bounding-box-predictions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Intersection Over Union",
+                "lessonId": "L95LZ",
+                "timeCommitment": 258000,
+                "id": "p9gxz",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 258000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "intersection-over-union"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Non-max Suppression",
+                "lessonId": "L95LZ",
+                "timeCommitment": 481000,
+                "id": "dvrjH",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 481000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "non-max-suppression"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Anchor Boxes",
+                "lessonId": "L95LZ",
+                "timeCommitment": 582000,
+                "id": "yNwO0",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 582000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "anchor-boxes"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming YOLO Algorithm Video",
+                "lessonId": "L95LZ",
+                "timeCommitment": 60000,
+                "id": "l4SFt",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-yolo-algorithm-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "YOLO Algorithm",
+                "lessonId": "L95LZ",
+                "timeCommitment": 406000,
+                "id": "fF3O0",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 406000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "yolo-algorithm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Region Proposals (Optional)",
+                "lessonId": "L95LZ",
+                "timeCommitment": 374000,
+                "id": "aCYZv",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 374000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "region-proposals-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Semantic Segmentation with U-Net",
+                "lessonId": "L95LZ",
+                "timeCommitment": 441000,
+                "id": "rEYzz",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 441000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "semantic-segmentation-with-u-net"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Transpose Convolutions",
+                "lessonId": "L95LZ",
+                "timeCommitment": 459000,
+                "id": "kyoqR",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 459000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "transpose-convolutions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "U-Net Architecture Intuition",
+                "lessonId": "L95LZ",
+                "timeCommitment": 201000,
+                "id": "Vw8sl",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 201000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "u-net-architecture-intuition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "U-Net Architecture",
+                "lessonId": "L95LZ",
+                "timeCommitment": 460000,
+                "id": "GIIWY",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 460000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "u-net-architecture"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W3",
+                "lessonId": "3JSsB",
+                "timeCommitment": 60000,
+                "id": "7yObP",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w3"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "hx4M9",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Detection Algorithms ",
+                "id": "hD0qO",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "detection-algorithms"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "zoHV4",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Car detection with YOLO",
+                "id": "3VCFG",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "car-detection-with-yolo"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clear Output Before Submitting (For U-Net Assignment)",
+                "lessonId": "zoHV4",
+                "timeCommitment": 600000,
+                "id": "CqMzb",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clear-output-before-submitting-for-u-net-assignment"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "zoHV4",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Image Segmentation with U-Net",
+                "id": "omqTR",
+                "moduleId": "3JCO4",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "image-segmentation-with-u-net"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is Face Recognition?",
+                "lessonId": "2klQB",
+                "timeCommitment": 277000,
+                "id": "lUBYU",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 277000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-is-face-recognition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "One Shot Learning",
+                "lessonId": "2klQB",
+                "timeCommitment": 284000,
+                "id": "gjckG",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 284000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "one-shot-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Siamese Network",
+                "lessonId": "2klQB",
+                "timeCommitment": 275000,
+                "id": "bjhmj",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 275000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "siamese-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Triplet Loss",
+                "lessonId": "2klQB",
+                "timeCommitment": 900000,
+                "id": "HuUtN",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 900000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "triplet-loss"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Face Verification and Binary Classification Video",
+                "lessonId": "2klQB",
+                "timeCommitment": 60000,
+                "id": "q3hBe",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-face-verification-and-binary-classification-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Face Verification and Binary Classification",
+                "lessonId": "2klQB",
+                "timeCommitment": 365000,
+                "id": "xTihv",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 365000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "face-verification-and-binary-classification"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is Neural Style Transfer?",
+                "lessonId": "IpiBx",
+                "timeCommitment": 122000,
+                "id": "SA5H8",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 122000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-is-neural-style-transfer"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What are deep ConvNets learning?",
+                "lessonId": "IpiBx",
+                "timeCommitment": 477000,
+                "id": "GboGx",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 477000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-are-deep-convnets-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Cost Function",
+                "lessonId": "IpiBx",
+                "timeCommitment": 239000,
+                "id": "jOnEU",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 239000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "cost-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Content Cost Function",
+                "lessonId": "IpiBx",
+                "timeCommitment": 217000,
+                "id": "CvHv6",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 217000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "content-cost-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Style Cost Function Video",
+                "lessonId": "IpiBx",
+                "timeCommitment": 60000,
+                "id": "p9Zdf",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-style-cost-function-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Style Cost Function",
+                "lessonId": "IpiBx",
+                "timeCommitment": 797000,
+                "id": "AzcCW",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 797000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "style-cost-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "1D and 3D Generalizations",
+                "lessonId": "IpiBx",
+                "timeCommitment": 548000,
+                "id": "OkHJ3",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 548000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "1d-and-3d-generalizations"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W4",
+                "lessonId": "NVkrI",
+                "timeCommitment": 60000,
+                "id": "ZvFep",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w4"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "de4Va",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Special Applications: Face Recognition & Neural Style Transfer",
+                "id": "61BHW",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "special-applications-face-recognition-neural-style-transfer"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Reminder about end of access to Lab Notebooks",
+                "lessonId": "f9rdA",
+                "timeCommitment": 120000,
+                "id": "sroEJ",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-reminder-about-end-of-access-to-lab-notebooks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "7zys7",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Face Recognition",
+                "id": "OgKZl",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "face-recognition"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "7zys7",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Art Generation with Neural Style Transfer",
+                "id": "4AZ8P",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "art-generation-with-neural-style-transfer"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "References",
+                "lessonId": "mm7bq",
+                "timeCommitment": 600000,
+                "id": "oGuyV",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "references"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "mm7bq",
+                "timeCommitment": 600000,
+                "id": "xxIAa",
+                "moduleId": "M30a4",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "3JvY4Lq0EeeV9Q4CYEULEg",
+                    "5JFagLq0EeejEgo9PVHTeA",
+                    "90NFeLq0Eee-Hg4qXbZVyA",
+                    "oh47wiVKEeu6JBI1t6fzNw",
+                    "usEx0SVAEeuGqwrUSzeNMw",
+                    "ecc0cxSWEeuGqwrUSzeNMw",
+                    "eceotBSWEeu6JBI1t6fzNw",
+                    "d1Ch0yVLEeuGqwrUSzeNMw",
+                    "eccz3RSWEeuQRQ7no-67DQ",
+                    "RudLbCVLEeuGqwrUSzeNMw",
+                    "eccNYhSWEeuGqwrUSzeNMw"
+                ],
+                "name": "Foundations of Convolutional Neural Networks",
+                "description": "Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network to solve multi-class image classification problems.",
+                "timeCommitment": 33650000,
+                "id": "v1t0U",
+                "lessonIds": [
+                    "RMVfW",
+                    "FY6tc",
+                    "BPN8Z",
+                    "TG2IR",
+                    "QJaVi"
+                ],
+                "slug": "foundations-of-convolutional-neural-networks"
+            },
+            {
+                "learningObjectives": [
+                    "q5AxF7q1Eee9Hwpv10ymug",
+                    "tsLcbrq1Eee-Hg4qXbZVyA",
+                    "wW593bq1EeeWmBILclmtrA",
+                    "OArdcRSZEeu6JBI1t6fzNw",
+                    "OAt5shSZEeu6JBI1t6fzNw",
+                    "OApBHhSZEeuGqwrUSzeNMw",
+                    "I5VZaSVKEeu6JBI1t6fzNw"
+                ],
+                "name": "Deep Convolutional Models: Case Studies",
+                "description": "Discover some powerful practical tricks and methods used in deep CNNs, straight from the research papers, then apply transfer learning to your own deep CNN. ",
+                "timeCommitment": 32408000,
+                "id": "UzkBp",
+                "lessonIds": [
+                    "Il3pv",
+                    "hHoTL",
+                    "ezScV",
+                    "2sKyg",
+                    "SmnsJ"
+                ],
+                "slug": "deep-convolutional-models-case-studies"
+            },
+            {
+                "learningObjectives": [
+                    "O08NSbq2Eee9Hwpv10ymug",
+                    "kZppTSVMEeuQRQ7no-67DQ",
+                    "BsqvOrq2Eee-Hg4qXbZVyA",
+                    "ES_41bq2EeekVBIPDLaqfg",
+                    "lh1NmBVYEeu6JBI1t6fzNw",
+                    "t1sLqDZ2Eeu1Tgrayf25ow",
+                    "t1vPGTZ2EeuioRIGFMTASQ",
+                    "t1tZ6DZ2EeuioRIGFMTASQ",
+                    "t1unRzZ2Eeum7w5R5UjYoQ"
+                ],
+                "name": "Object Detection",
+                "description": "Apply your new knowledge of CNNs to one of the hottest (and most challenging!) fields in computer vision: object detection.",
+                "timeCommitment": 31997000,
+                "id": "3JCO4",
+                "lessonIds": [
+                    "L95LZ",
+                    "3JSsB",
+                    "hx4M9",
+                    "zoHV4"
+                ],
+                "slug": "object-detection"
+            },
+            {
+                "learningObjectives": [
+                    "RsyV9gjOEeuQRQ7no-67DQ",
+                    "Rs0yOAjOEeuQRQ7no-67DQ",
+                    "RshQTwjOEeu6JBI1t6fzNw",
+                    "Rsh3YAjOEeu6JBI1t6fzNw",
+                    "RnjEqzZ3Eeu1Tgrayf25ow",
+                    "RsjFNgjOEeuGqwrUSzeNMw",
+                    "qmX1NCVNEeuQRQ7no-67DQ",
+                    "qmYb-CVNEeu6JBI1t6fzNw",
+                    "Rs0LJwjOEeuQRQ7no-67DQ",
+                    "RsdlpAjOEeuGqwrUSzeNMw"
+                ],
+                "name": "Special Applications: Face recognition & Neural Style Transfer",
+                "description": "Explore how CNNs can be applied to multiple fields, including art generation and face recognition, then implement your own algorithm to generate art and recognize faces!",
+                "timeCommitment": 30601000,
+                "id": "M30a4",
+                "lessonIds": [
+                    "2klQB",
+                    "IpiBx",
+                    "NVkrI",
+                    "de4Va",
+                    "f9rdA",
+                    "7zys7",
+                    "mm7bq"
+                ],
+                "slug": "special-applications-face-recognition-neural-style-transfer"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~jlqZk"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~4xt9A"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~7Bfm2"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~40woH"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~Oluli"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~nZima"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~hD0qO"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~3VCFG"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~omqTR"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~61BHW"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~OgKZl"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~4AZ8P"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "kWGvJivBEeeW5RJUyz1uFA"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}

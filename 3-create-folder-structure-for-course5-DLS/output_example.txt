@@ -1,0 +1,28 @@
+./course5.json
+course5.json
+course5
+Carpeta creada: course5\week1\01-recurrent-neural-networks
+Carpeta creada: course5\week1\02-lecture-notes-optional
+Carpeta creada: course5\week1\03-quiz
+Carpeta creada: course5\week1\04-programming-assignments
+Carpeta creada: course5\week2\01-introduction-to-word-embeddings
+Carpeta creada: course5\week2\02-learning-word-embeddings-word2vec-glove
+Carpeta creada: course5\week2\03-applications-using-word-embeddings
+Carpeta creada: course5\week2\04-lecture-notes-optional
+Carpeta creada: course5\week2\05-quiz
+Carpeta creada: course5\week2\06-programming-assignments
+Carpeta creada: course5\week3\01-various-sequence-to-sequence-architectures
+Carpeta creada: course5\week3\02-speech-recognition-audio-data
+Carpeta creada: course5\week3\03-lecture-notes-optional
+Carpeta creada: course5\week3\04-quiz
+Carpeta creada: course5\week3\05-programming-assignments
+Carpeta creada: course5\week4\01-transformers
+Carpeta creada: course5\week4\02-lecture-notes-optional
+Carpeta creada: course5\week4\03-quiz
+Carpeta creada: course5\week4\04-end-of-access-to-lab-notebooks
+Carpeta creada: course5\week4\05-programming-assignment
+Carpeta creada: course5\week4\06-transformer-applications-ungraded-labs
+Carpeta creada: course5\week4\07-conclusion
+Carpeta creada: course5\week4\08-references-acknowledgments
+
+Elapsed time: 29.53 ms

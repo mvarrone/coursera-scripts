@@ -1,0 +1,1862 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "u4vpZ",
+                "iYOe0",
+                "zv78h",
+                "WiZaB"
+            ],
+            "id": "25Fh8ivBEee6gA5XksfBbg"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 12,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "25Fh8ivBEee6gA5XksfBbg"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "0h7gT",
+                    "aJT8i",
+                    "ftkzt",
+                    "bc7ED",
+                    "194wl",
+                    "BO8PS",
+                    "gw1Xw",
+                    "MACos",
+                    "PKMRR",
+                    "XuA7H",
+                    "agZiL",
+                    "xdv6z",
+                    "KXoay",
+                    "fyXnn",
+                    "ehs0S"
+                ],
+                "name": "Recurrent Neural Networks",
+                "timeCommitment": 6938000,
+                "id": "PJMl1",
+                "moduleId": "u4vpZ",
+                "slug": "recurrent-neural-networks",
+                "elementIds": [
+                    "item~0h7gT",
+                    "item~aJT8i",
+                    "item~ftkzt",
+                    "item~bc7ED",
+                    "item~194wl",
+                    "item~BO8PS",
+                    "item~gw1Xw",
+                    "item~MACos",
+                    "item~PKMRR",
+                    "item~XuA7H",
+                    "item~agZiL",
+                    "item~xdv6z",
+                    "item~KXoay",
+                    "item~fyXnn",
+                    "item~ehs0S"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "jlfJa"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "4tP73",
+                "moduleId": "u4vpZ",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~jlfJa"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "OwTDf"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "a8AU6",
+                "moduleId": "u4vpZ",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~OwTDf"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "X39s5",
+                    "yIJFK",
+                    "NaIA5",
+                    "ZS7X2"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 32700000,
+                "id": "OSdQb",
+                "moduleId": "u4vpZ",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~X39s5",
+                    "item~yIJFK",
+                    "item~NaIA5",
+                    "item~ZS7X2"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "6Oq70",
+                    "qHMK5",
+                    "S2mat",
+                    "K604Z"
+                ],
+                "name": "Introduction to Word Embeddings",
+                "timeCommitment": 2075000,
+                "id": "DtO89",
+                "moduleId": "iYOe0",
+                "slug": "introduction-to-word-embeddings",
+                "elementIds": [
+                    "item~6Oq70",
+                    "item~qHMK5",
+                    "item~S2mat",
+                    "item~K604Z"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "APM5s",
+                    "8CZiw",
+                    "Iwx0e",
+                    "Kz71Z",
+                    "IxDTG"
+                ],
+                "name": "Learning Word Embeddings: Word2vec & GloVe",
+                "timeCommitment": 2788000,
+                "id": "FlaTd",
+                "moduleId": "iYOe0",
+                "slug": "learning-word-embeddings-word2vec-glove",
+                "elementIds": [
+                    "item~APM5s",
+                    "item~8CZiw",
+                    "item~Iwx0e",
+                    "item~Kz71Z",
+                    "item~IxDTG"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Jxuhl",
+                    "zHASj"
+                ],
+                "name": "Applications Using Word Embeddings",
+                "timeCommitment": 1124000,
+                "id": "UcE5S",
+                "moduleId": "iYOe0",
+                "slug": "applications-using-word-embeddings",
+                "elementIds": [
+                    "item~Jxuhl",
+                    "item~zHASj"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "5vnV3"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "cRMdj",
+                "moduleId": "iYOe0",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~5vnV3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "G5uWp"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "TMmKP",
+                "moduleId": "iYOe0",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~G5uWp"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "qgdaj",
+                    "SrY2e"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 21600000,
+                "id": "lVUM0",
+                "moduleId": "iYOe0",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~qgdaj",
+                    "item~SrY2e"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "HyEui",
+                    "v2pRn",
+                    "4EtHZ",
+                    "AkjG2",
+                    "UfvRl",
+                    "kC2HD",
+                    "RDXpX",
+                    "5GAms",
+                    "lSwVa"
+                ],
+                "name": "Various Sequence To Sequence Architectures",
+                "timeCommitment": 5700000,
+                "id": "burZu",
+                "moduleId": "zv78h",
+                "slug": "various-sequence-to-sequence-architectures",
+                "elementIds": [
+                    "item~HyEui",
+                    "item~v2pRn",
+                    "item~4EtHZ",
+                    "item~AkjG2",
+                    "item~UfvRl",
+                    "item~kC2HD",
+                    "item~RDXpX",
+                    "item~5GAms",
+                    "item~lSwVa"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "sjiUm",
+                    "Li4ts"
+                ],
+                "name": "Speech Recognition - Audio Data",
+                "timeCommitment": 804000,
+                "id": "36KkI",
+                "moduleId": "zv78h",
+                "slug": "speech-recognition-audio-data",
+                "elementIds": [
+                    "item~sjiUm",
+                    "item~Li4ts"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "slQL2"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "Fcawx",
+                "moduleId": "zv78h",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~slQL2"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "SFJH7"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "zf0V9",
+                "moduleId": "zv78h",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~SFJH7"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "0kud6",
+                    "L0BBe",
+                    "MHAsK"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 22200000,
+                "id": "wKJKv",
+                "moduleId": "zv78h",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~0kud6",
+                    "item~L0BBe",
+                    "item~MHAsK"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "YKatU",
+                    "lsvRK",
+                    "jsV2q",
+                    "Kf5Y3"
+                ],
+                "name": "Transformers",
+                "timeCommitment": 2372000,
+                "id": "w3B1t",
+                "moduleId": "WiZaB",
+                "slug": "transformers",
+                "elementIds": [
+                    "item~YKatU",
+                    "item~lsvRK",
+                    "item~jsV2q",
+                    "item~Kf5Y3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "EG7E1"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "yOX3O",
+                "moduleId": "WiZaB",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~EG7E1"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "nMEml"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "i190l",
+                "moduleId": "WiZaB",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~nMEml"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "MAlfU"
+                ],
+                "name": "End of access to Lab Notebooks",
+                "timeCommitment": 120000,
+                "id": "6VgUT",
+                "moduleId": "WiZaB",
+                "slug": "end-of-access-to-lab-notebooks",
+                "elementIds": [
+                    "item~MAlfU"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "roP5y"
+                ],
+                "name": "Programming Assignment",
+                "timeCommitment": 10800000,
+                "id": "f1y29",
+                "moduleId": "WiZaB",
+                "slug": "programming-assignment",
+                "elementIds": [
+                    "item~roP5y"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "ou071",
+                    "RdNV9",
+                    "6iTj6"
+                ],
+                "name": "Transformer Applications - Ungraded Labs",
+                "timeCommitment": 10800000,
+                "id": "EvHRt",
+                "moduleId": "WiZaB",
+                "slug": "transformer-applications-ungraded-labs",
+                "elementIds": [
+                    "item~ou071",
+                    "item~RdNV9",
+                    "item~6iTj6"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "ATXdW"
+                ],
+                "name": "Conclusion",
+                "timeCommitment": 164000,
+                "id": "IwmHl",
+                "moduleId": "WiZaB",
+                "slug": "conclusion",
+                "elementIds": [
+                    "item~ATXdW"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Sul1k",
+                    "ri2Iq",
+                    "P1ZSL"
+                ],
+                "name": "References & Acknowledgments",
+                "timeCommitment": 1800000,
+                "id": "S0zrK",
+                "moduleId": "WiZaB",
+                "slug": "references-acknowledgments",
+                "elementIds": [
+                    "item~Sul1k",
+                    "item~ri2Iq",
+                    "item~P1ZSL"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why Sequence Models?",
+                "lessonId": "PJMl1",
+                "timeCommitment": 179000,
+                "id": "0h7gT",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 179000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-sequence-models"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Notation",
+                "lessonId": "PJMl1",
+                "timeCommitment": 535000,
+                "id": "aJT8i",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 535000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "notation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Recurrent Neural Network Model",
+                "lessonId": "PJMl1",
+                "timeCommitment": 991000,
+                "id": "ftkzt",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 991000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "recurrent-neural-network-model"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Backpropagation Through Time",
+                "lessonId": "PJMl1",
+                "timeCommitment": 370000,
+                "id": "bc7ED",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 370000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "backpropagation-through-time"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "PJMl1",
+                "timeCommitment": 120000,
+                "id": "194wl",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Different Types of RNNs",
+                "lessonId": "PJMl1",
+                "timeCommitment": 573000,
+                "id": "BO8PS",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 573000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "different-types-of-rnns"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Language Model and Sequence Generation",
+                "lessonId": "PJMl1",
+                "timeCommitment": 721000,
+                "id": "gw1Xw",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 721000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "language-model-and-sequence-generation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Sampling Novel Sequences",
+                "lessonId": "PJMl1",
+                "timeCommitment": 518000,
+                "id": "MACos",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 518000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "sampling-novel-sequences"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vanishing Gradients with RNNs",
+                "lessonId": "PJMl1",
+                "timeCommitment": 387000,
+                "id": "PKMRR",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 387000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "vanishing-gradients-with-rnns"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Gated Recurrent Unit (GRU) Video",
+                "lessonId": "PJMl1",
+                "timeCommitment": 60000,
+                "id": "XuA7H",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-gated-recurrent-unit-gru-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gated Recurrent Unit (GRU)",
+                "lessonId": "PJMl1",
+                "timeCommitment": 1018000,
+                "id": "agZiL",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1018000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gated-recurrent-unit-gru"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Long Short Term Memory (LSTM) Video",
+                "lessonId": "PJMl1",
+                "timeCommitment": 60000,
+                "id": "xdv6z",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-long-short-term-memory-lstm-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Long Short Term Memory (LSTM)",
+                "lessonId": "PJMl1",
+                "timeCommitment": 593000,
+                "id": "KXoay",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 593000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "long-short-term-memory-lstm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bidirectional RNN",
+                "lessonId": "PJMl1",
+                "timeCommitment": 497000,
+                "id": "fyXnn",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 497000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bidirectional-rnn"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Deep RNNs",
+                "lessonId": "PJMl1",
+                "timeCommitment": 316000,
+                "id": "ehs0S",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 316000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "deep-rnns"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W1",
+                "lessonId": "4tP73",
+                "timeCommitment": 60000,
+                "id": "jlfJa",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w1"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "a8AU6",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Recurrent Neural Networks ",
+                "id": "OwTDf",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "recurrent-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace",
+                "lessonId": "OSdQb",
+                "timeCommitment": 300000,
+                "id": "X39s5",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-downloading-your-notebook-downloading-your-workspace-and-refreshing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "OSdQb",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Building your Recurrent Neural Network - Step by Step",
+                "id": "yIJFK",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "building-your-recurrent-neural-network-step-by-step"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "OSdQb",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Dinosaur Island-Character-Level Language Modeling ",
+                "id": "NaIA5",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "dinosaur-island-character-level-language-modeling"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "OSdQb",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Jazz Improvisation with LSTM",
+                "id": "ZS7X2",
+                "moduleId": "u4vpZ",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "jazz-improvisation-with-lstm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Word Representation",
+                "lessonId": "DtO89",
+                "timeCommitment": 607000,
+                "id": "6Oq70",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 607000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "word-representation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Using Word Embeddings",
+                "lessonId": "DtO89",
+                "timeCommitment": 562000,
+                "id": "qHMK5",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 562000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "using-word-embeddings"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Properties of Word Embeddings",
+                "lessonId": "DtO89",
+                "timeCommitment": 682000,
+                "id": "S2mat",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 682000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "properties-of-word-embeddings"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Embedding Matrix",
+                "lessonId": "DtO89",
+                "timeCommitment": 224000,
+                "id": "K604Z",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 224000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "embedding-matrix"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Learning Word Embeddings",
+                "lessonId": "FlaTd",
+                "timeCommitment": 601000,
+                "id": "APM5s",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 601000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "learning-word-embeddings"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Word2Vec",
+                "lessonId": "FlaTd",
+                "timeCommitment": 753000,
+                "id": "8CZiw",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 753000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "word2vec"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Negative Sampling",
+                "lessonId": "FlaTd",
+                "timeCommitment": 706000,
+                "id": "Iwx0e",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 706000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "negative-sampling"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming GloVe Word Vectors Video ",
+                "lessonId": "FlaTd",
+                "timeCommitment": 60000,
+                "id": "Kz71Z",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-glove-word-vectors-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "GloVe Word Vectors",
+                "lessonId": "FlaTd",
+                "timeCommitment": 668000,
+                "id": "IxDTG",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 668000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "glove-word-vectors"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Sentiment Classification",
+                "lessonId": "UcE5S",
+                "timeCommitment": 457000,
+                "id": "Jxuhl",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 457000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "sentiment-classification"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Debiasing Word Embeddings",
+                "lessonId": "UcE5S",
+                "timeCommitment": 667000,
+                "id": "zHASj",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 667000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "debiasing-word-embeddings"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W2",
+                "lessonId": "cRMdj",
+                "timeCommitment": 60000,
+                "id": "5vnV3",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w2"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "TMmKP",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Natural Language Processing & Word Embeddings ",
+                "id": "G5uWp",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "natural-language-processing-word-embeddings"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "lVUM0",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Operations on Word Vectors - Debiasing",
+                "id": "qgdaj",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "operations-on-word-vectors-debiasing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "lVUM0",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Emojify",
+                "id": "SrY2e",
+                "moduleId": "iYOe0",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "emojify"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Basic Models",
+                "lessonId": "burZu",
+                "timeCommitment": 370000,
+                "id": "HyEui",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 370000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "basic-models"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Picking the Most Likely Sentence",
+                "lessonId": "burZu",
+                "timeCommitment": 536000,
+                "id": "v2pRn",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 536000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "picking-the-most-likely-sentence"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Beam Search",
+                "lessonId": "burZu",
+                "timeCommitment": 714000,
+                "id": "4EtHZ",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 714000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "beam-search"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Refinements to Beam Search",
+                "lessonId": "burZu",
+                "timeCommitment": 627000,
+                "id": "AkjG2",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 627000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "refinements-to-beam-search"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Error Analysis in Beam Search",
+                "lessonId": "burZu",
+                "timeCommitment": 581000,
+                "id": "UfvRl",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 581000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "error-analysis-in-beam-search"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bleu Score (Optional)",
+                "lessonId": "burZu",
+                "timeCommitment": 949000,
+                "id": "kC2HD",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 949000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bleu-score-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Attention Model Intuition",
+                "lessonId": "burZu",
+                "timeCommitment": 581000,
+                "id": "RDXpX",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 581000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "attention-model-intuition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Attention Model Video ",
+                "lessonId": "burZu",
+                "timeCommitment": 600000,
+                "id": "5GAms",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-attention-model-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Attention Model",
+                "lessonId": "burZu",
+                "timeCommitment": 742000,
+                "id": "lSwVa",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 742000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "attention-model"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Speech Recognition",
+                "lessonId": "36KkI",
+                "timeCommitment": 533000,
+                "id": "sjiUm",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 533000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "speech-recognition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Trigger Word Detection",
+                "lessonId": "36KkI",
+                "timeCommitment": 271000,
+                "id": "Li4ts",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 271000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "trigger-word-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W3",
+                "lessonId": "Fcawx",
+                "timeCommitment": 60000,
+                "id": "slQL2",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w3"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "zf0V9",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Sequence Models & Attention Mechanism ",
+                "id": "SFJH7",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "sequence-models-attention-mechanism"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Instructions If You Are Unable to Open Your Notebook",
+                "lessonId": "wKJKv",
+                "timeCommitment": 600000,
+                "id": "0kud6",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "instructions-if-you-are-unable-to-open-your-notebook"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "wKJKv",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Neural Machine Translation",
+                "id": "L0BBe",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "neural-machine-translation"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "wKJKv",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Trigger Word Detection",
+                "id": "MHAsK",
+                "moduleId": "zv78h",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "trigger-word-detection"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Transformer Network Intuition",
+                "lessonId": "w3B1t",
+                "timeCommitment": 329000,
+                "id": "YKatU",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 329000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "transformer-network-intuition"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Self-Attention",
+                "lessonId": "w3B1t",
+                "timeCommitment": 703000,
+                "id": "lsvRK",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 703000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "self-attention"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Multi-Head Attention",
+                "lessonId": "w3B1t",
+                "timeCommitment": 498000,
+                "id": "jsV2q",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 498000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "multi-head-attention"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Transformer Network",
+                "lessonId": "w3B1t",
+                "timeCommitment": 842000,
+                "id": "Kf5Y3",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 842000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "transformer-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W4",
+                "lessonId": "yOX3O",
+                "timeCommitment": 60000,
+                "id": "EG7E1",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w4"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "i190l",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transformers ",
+                "id": "nMEml",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "transformers"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Reminder about end of access to Lab Notebooks",
+                "lessonId": "6VgUT",
+                "timeCommitment": 120000,
+                "id": "MAlfU",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-reminder-about-end-of-access-to-lab-notebooks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "f1y29",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transformers Architecture with TensorFlow",
+                "id": "roP5y",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "transformers-architecture-with-tensorflow"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "EvHRt",
+                "timeCommitment": 3600000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transformer Pre-processing",
+                "id": "ou071",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "ungradedLab",
+                    "definition": {}
+                },
+                "slug": "transformer-pre-processing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "EvHRt",
+                "timeCommitment": 3600000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transformer Network Application: Named-Entity Recognition",
+                "id": "RdNV9",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "ungradedLab",
+                    "definition": {}
+                },
+                "slug": "transformer-network-application-named-entity-recognition"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "EvHRt",
+                "timeCommitment": 3600000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Transformer Network Application: Question Answering",
+                "id": "6iTj6",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "ungradedLab",
+                    "definition": {}
+                },
+                "slug": "transformer-network-application-question-answering"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Conclusion and Thank You!",
+                "lessonId": "IwmHl",
+                "timeCommitment": 164000,
+                "id": "ATXdW",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 164000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "conclusion-and-thank-you"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "References",
+                "lessonId": "S0zrK",
+                "timeCommitment": 600000,
+                "id": "Sul1k",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "references"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "S0zrK",
+                "timeCommitment": 600000,
+                "id": "ri2Iq",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Opportunity to Mentor Other Learners",
+                "lessonId": "S0zrK",
+                "timeCommitment": 600000,
+                "id": "P1ZSL",
+                "moduleId": "WiZaB",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-opportunity-to-mentor-other-learners"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "n5ag0QjfEeuQRQ7no-67DQ",
+                    "n5SkcAjfEeu6JBI1t6fzNw",
+                    "n5c9EgjfEeuQRQ7no-67DQ",
+                    "n5YroAjfEeuQRQ7no-67DQ",
+                    "n5SkbwjfEeu6JBI1t6fzNw",
+                    "n5VoTwjfEeuQRQ7no-67DQ",
+                    "IYLX4E-QEeuioRIGFMTASQ",
+                    "n5bHBAjfEeuGqwrUSzeNMw",
+                    "n5YqwwjfEeuGqwrUSzeNMw",
+                    "IYLYB0-QEeum7w5R5UjYoQ",
+                    "n5VAYQjfEeuGqwrUSzeNMw",
+                    "n5YqwgjfEeuGqwrUSzeNMw",
+                    "n5nVIwjfEeuQRQ7no-67DQ",
+                    "8WWLnFz8Eeu5fw6iwllw4w",
+                    "8WVlRVz8Eeu5wgqJvD1t0w",
+                    "8WVk_Fz8Eeu5oxLqzfcOCQ"
+                ],
+                "name": "Recurrent Neural Networks",
+                "description": "Discover recurrent neural networks, a type of model that performs extremely well on temporal data, and several of its variants, including LSTMs, GRUs and Bidirectional RNNs, ",
+                "timeCommitment": 42698000,
+                "id": "u4vpZ",
+                "lessonIds": [
+                    "PJMl1",
+                    "4tP73",
+                    "a8AU6",
+                    "OSdQb"
+                ],
+                "slug": "recurrent-neural-networks"
+            },
+            {
+                "learningObjectives": [
+                    "IJOkvwjiEeu6JBI1t6fzNw",
+                    "q5aWBldoEeu5fw6iwllw4w",
+                    "q5ZIXldoEeu5wgqJvD1t0w",
+                    "q5aWf1doEeu5wgqJvD1t0w",
+                    "IJQZowjiEeuGqwrUSzeNMw",
+                    "IJRBegjiEeuQRQ7no-67DQ",
+                    "IJRBewjiEeuQRQ7no-67DQ",
+                    "IJS2rAjiEeuQRQ7no-67DQ",
+                    "IJRBAAjiEeu6JBI1t6fzNw",
+                    "IJN9YgjiEeuGqwrUSzeNMw"
+                ],
+                "name": "Natural Language Processing & Word Embeddings",
+                "description": "Natural language processing with deep learning is a powerful combination. Using word vector representations and embedding layers, train recurrent neural networks with outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition and neural machine translation.",
+                "timeCommitment": 30647000,
+                "id": "iYOe0",
+                "lessonIds": [
+                    "DtO89",
+                    "FlaTd",
+                    "UcE5S",
+                    "cRMdj",
+                    "TMmKP",
+                    "lVUM0"
+                ],
+                "slug": "natural-language-processing-word-embeddings"
+            },
+            {
+                "learningObjectives": [
+                    "1zX9iwjjEeu6JBI1t6fzNw",
+                    "1zWIEAjjEeuGqwrUSzeNMw",
+                    "1zX8_AjjEeuQRQ7no-67DQ",
+                    "1zYkUQjjEeuGqwrUSzeNMw",
+                    "1zZLHQjjEeuQRQ7no-67DQ",
+                    "1zaZPgjjEeuQRQ7no-67DQ",
+                    "rRD1oWAdEeu5oxLqzfcOCQ",
+                    "rRD1tmAdEeu5fw6iwllw4w",
+                    "rRD2IWAdEeu5wgqJvD1t0w"
+                ],
+                "name": "Sequence Models & Attention Mechanism",
+                "description": "Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs. Then, explore speech recognition and how to deal with audio data.",
+                "timeCommitment": 31764000,
+                "id": "zv78h",
+                "lessonIds": [
+                    "burZu",
+                    "36KkI",
+                    "Fcawx",
+                    "zf0V9",
+                    "wKJKv"
+                ],
+                "slug": "sequence-models-attention-mechanism"
+            },
+            {
+                "learningObjectives": [
+                    "Oa43SaEBEeuOoQ5aXdphkw",
+                    "Oa5eKKEBEeuxFwp-lJ9CfQ",
+                    "ObBaKqEBEeuOoQ5aXdphkw",
+                    "eN6hE6EAEeuxFwp-lJ9CfQ",
+                    "ObCBO6EBEeuOoQ5aXdphkw",
+                    "Oa43xaEBEeu_nBJJpkyj1Q",
+                    "Ery3z6zzEeuRuw5pxvaMkw",
+                    "Erv0fqzzEeuRuw5pxvaMkw",
+                    "ErvNLKzzEeuxFwp-lJ9CfQ"
+                ],
+                "name": "Transformer Network",
+                "description": "",
+                "timeCommitment": 29116000,
+                "id": "WiZaB",
+                "lessonIds": [
+                    "w3B1t",
+                    "yOX3O",
+                    "i190l",
+                    "6VgUT",
+                    "f1y29",
+                    "EvHRt",
+                    "IwmHl",
+                    "S0zrK"
+                ],
+                "slug": "transformer-network"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~OwTDf"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~yIJFK"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~NaIA5"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~ZS7X2"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~G5uWp"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~qgdaj"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~SrY2e"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~SFJH7"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~L0BBe"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~MHAsK"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~nMEml"
+            },
+            {
+                "gradingWeight": 1000,
+                "isRequiredForPassing": false,
+                "id": "item~roP5y"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "25Fh8ivBEee6gA5XksfBbg"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}

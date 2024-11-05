@@ -1,0 +1,1619 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "JDY2Z",
+                "Rc4jY",
+                "ayKfw"
+            ],
+            "id": "BZ5quSvBEee6gA5XksfBbg"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 8,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "BZ5quSvBEee6gA5XksfBbg"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "cxG1s",
+                    "ZhclI",
+                    "ZBkx4"
+                ],
+                "name": "Setting up your Machine Learning Application",
+                "timeCommitment": 1631000,
+                "id": "v3zs2",
+                "moduleId": "JDY2Z",
+                "slug": "setting-up-your-machine-learning-application",
+                "elementIds": [
+                    "item~cxG1s",
+                    "item~ZhclI",
+                    "item~ZBkx4"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "wBUi9"
+                ],
+                "name": "Connect with your Mentors and Fellow Learners on our Forum!",
+                "timeCommitment": 120000,
+                "id": "V3OjN",
+                "moduleId": "JDY2Z",
+                "slug": "connect-with-your-mentors-and-fellow-learners-on-our-forum",
+                "elementIds": [
+                    "item~wBUi9"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "NcThD",
+                    "Srsrc",
+                    "T6OJj",
+                    "eM33A",
+                    "wsieW",
+                    "YaGbR",
+                    "Pa53F"
+                ],
+                "name": "Regularizing your Neural Network",
+                "timeCommitment": 2624000,
+                "id": "5Hkdg",
+                "moduleId": "JDY2Z",
+                "slug": "regularizing-your-neural-network",
+                "elementIds": [
+                    "item~NcThD",
+                    "item~Srsrc",
+                    "item~T6OJj",
+                    "item~eM33A",
+                    "item~wsieW",
+                    "item~YaGbR",
+                    "item~Pa53F"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "lXv6U",
+                    "C9iQO",
+                    "RwqYe",
+                    "XzSSa",
+                    "htA0l",
+                    "6igIc"
+                ],
+                "name": "Setting Up your Optimization Problem",
+                "timeCommitment": 2173000,
+                "id": "6eb3T",
+                "moduleId": "JDY2Z",
+                "slug": "setting-up-your-optimization-problem",
+                "elementIds": [
+                    "item~lXv6U",
+                    "item~C9iQO",
+                    "item~RwqYe",
+                    "item~XzSSa",
+                    "item~htA0l",
+                    "item~6igIc"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "U0og5"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "lYVx2",
+                "moduleId": "JDY2Z",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~U0og5"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "yTz20"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "6NO8J",
+                "moduleId": "JDY2Z",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~yTz20"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "vjCmR",
+                    "QF47Q",
+                    "FjL8C",
+                    "RS2w3"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 32700000,
+                "id": "Uc2TH",
+                "moduleId": "JDY2Z",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~vjCmR",
+                    "item~QF47Q",
+                    "item~FjL8C",
+                    "item~RS2w3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "bqUgf"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 1548000,
+                "id": "Ndf7g",
+                "moduleId": "JDY2Z",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~bqUgf"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "qcogH",
+                    "lBXu8",
+                    "duStO",
+                    "Ud7t0",
+                    "XjuhD",
+                    "y0m1f",
+                    "BhJlm",
+                    "5fSys",
+                    "w9VCZ",
+                    "4DwoT",
+                    "hjgIA",
+                    "RFANA"
+                ],
+                "name": "Optimization Algorithms",
+                "timeCommitment": 4852000,
+                "id": "FrhBj",
+                "moduleId": "Rc4jY",
+                "slug": "optimization-algorithms",
+                "elementIds": [
+                    "item~qcogH",
+                    "item~lBXu8",
+                    "item~duStO",
+                    "item~Ud7t0",
+                    "item~XjuhD",
+                    "item~y0m1f",
+                    "item~BhJlm",
+                    "item~5fSys",
+                    "item~w9VCZ",
+                    "item~4DwoT",
+                    "item~hjgIA",
+                    "item~RFANA"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "c40RZ"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "RHYLw",
+                "moduleId": "Rc4jY",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~c40RZ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "fPIQZ"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "KQD9f",
+                "moduleId": "Rc4jY",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~fPIQZ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "390Oe"
+                ],
+                "name": "Programming Assignment",
+                "timeCommitment": 10800000,
+                "id": "SXJlq",
+                "moduleId": "Rc4jY",
+                "slug": "programming-assignment",
+                "elementIds": [
+                    "item~390Oe"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "CXqid"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 816000,
+                "id": "LlGBO",
+                "moduleId": "Rc4jY",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~CXqid"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "dknSn",
+                    "3rdqN",
+                    "DHNcc"
+                ],
+                "name": "Hyperparameter Tuning",
+                "timeCommitment": 1371000,
+                "id": "ODhzj",
+                "moduleId": "ayKfw",
+                "slug": "hyperparameter-tuning",
+                "elementIds": [
+                    "item~dknSn",
+                    "item~3rdqN",
+                    "item~DHNcc"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "C9NAn",
+                    "4ptp2",
+                    "RN8bN",
+                    "81oTm",
+                    "FsoNw"
+                ],
+                "name": "Batch Normalization",
+                "timeCommitment": 2413000,
+                "id": "anW0I",
+                "moduleId": "ayKfw",
+                "slug": "batch-normalization",
+                "elementIds": [
+                    "item~C9NAn",
+                    "item~4ptp2",
+                    "item~RN8bN",
+                    "item~81oTm",
+                    "item~FsoNw"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "fh9Po",
+                    "HRy7y",
+                    "LCsCH"
+                ],
+                "name": "Multi-class Classification",
+                "timeCommitment": 1374000,
+                "id": "NWGk8",
+                "moduleId": "ayKfw",
+                "slug": "multi-class-classification",
+                "elementIds": [
+                    "item~fh9Po",
+                    "item~HRy7y",
+                    "item~LCsCH"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "NpLFp",
+                    "zcZlH",
+                    "FYFvU"
+                ],
+                "name": "Introduction to Programming Frameworks",
+                "timeCommitment": 1216000,
+                "id": "oeKDS",
+                "moduleId": "ayKfw",
+                "slug": "introduction-to-programming-frameworks",
+                "elementIds": [
+                    "item~NpLFp",
+                    "item~zcZlH",
+                    "item~FYFvU"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "ko7et"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "0sulz",
+                "moduleId": "ayKfw",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~ko7et"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "1mKhR"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "xYCPk",
+                "moduleId": "ayKfw",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~1mKhR"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "pIaD9"
+                ],
+                "name": "End of access to Lab Notebooks",
+                "timeCommitment": 120000,
+                "id": "Ohh3F",
+                "moduleId": "ayKfw",
+                "slug": "end-of-access-to-lab-notebooks",
+                "elementIds": [
+                    "item~pIaD9"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "fuJJY"
+                ],
+                "name": "Programming Assignment",
+                "timeCommitment": 10800000,
+                "id": "IEk6T",
+                "moduleId": "ayKfw",
+                "slug": "programming-assignment",
+                "elementIds": [
+                    "item~fuJJY"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "X1fuB",
+                    "OGHln"
+                ],
+                "name": "References & Acknowledgments",
+                "timeCommitment": 1200000,
+                "id": "XpMqx",
+                "moduleId": "ayKfw",
+                "slug": "references-acknowledgments",
+                "elementIds": [
+                    "item~X1fuB",
+                    "item~OGHln"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Train / Dev / Test sets",
+                "lessonId": "v3zs2",
+                "timeCommitment": 724000,
+                "id": "cxG1s",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 724000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "train-dev-test-sets"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bias / Variance",
+                "lessonId": "v3zs2",
+                "timeCommitment": 526000,
+                "id": "ZhclI",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 526000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bias-variance"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Basic Recipe for Machine Learning",
+                "lessonId": "v3zs2",
+                "timeCommitment": 381000,
+                "id": "ZBkx4",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 381000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "basic-recipe-for-machine-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "V3OjN",
+                "timeCommitment": 120000,
+                "id": "wBUi9",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification about Upcoming Regularization Video",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 60000,
+                "id": "NcThD",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-about-upcoming-regularization-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Regularization",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 582000,
+                "id": "Srsrc",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 582000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "regularization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why Regularization Reduces Overfitting?",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 429000,
+                "id": "T6OJj",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 429000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-regularization-reduces-overfitting"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Dropout Regularization",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 565000,
+                "id": "eM33A",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 565000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "dropout-regularization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification about Upcoming Understanding Dropout Video",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 60000,
+                "id": "wsieW",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-about-upcoming-understanding-dropout-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Understanding Dropout",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 425000,
+                "id": "YaGbR",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 425000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "understanding-dropout"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Other Regularization Methods",
+                "lessonId": "5Hkdg",
+                "timeCommitment": 503000,
+                "id": "Pa53F",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 503000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "other-regularization-methods"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Normalizing Inputs",
+                "lessonId": "6eb3T",
+                "timeCommitment": 329000,
+                "id": "lXv6U",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 329000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "normalizing-inputs"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vanishing / Exploding Gradients",
+                "lessonId": "6eb3T",
+                "timeCommitment": 367000,
+                "id": "C9iQO",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 367000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "vanishing-exploding-gradients"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Weight Initialization for Deep Networks",
+                "lessonId": "6eb3T",
+                "timeCommitment": 370000,
+                "id": "RwqYe",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 370000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "weight-initialization-for-deep-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Numerical Approximation of Gradients",
+                "lessonId": "6eb3T",
+                "timeCommitment": 395000,
+                "id": "XzSSa",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 395000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "numerical-approximation-of-gradients"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Checking",
+                "lessonId": "6eb3T",
+                "timeCommitment": 394000,
+                "id": "htA0l",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 394000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gradient-checking"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Checking Implementation Notes",
+                "lessonId": "6eb3T",
+                "timeCommitment": 318000,
+                "id": "6igIc",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 318000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gradient-checking-implementation-notes"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W1",
+                "lessonId": "lYVx2",
+                "timeCommitment": 60000,
+                "id": "U0og5",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w1"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "6NO8J",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Practical aspects of Deep Learning   ",
+                "id": "yTz20",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@40",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "practical-aspects-of-deep-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace",
+                "lessonId": "Uc2TH",
+                "timeCommitment": 300000,
+                "id": "vjCmR",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-downloading-your-notebook-downloading-your-workspace-and-refreshing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "Uc2TH",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Initialization",
+                "id": "QF47Q",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "initialization"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "Uc2TH",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Regularization",
+                "id": "FjL8C",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "regularization"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "Uc2TH",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Gradient Checking",
+                "id": "RS2w3",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "gradient-checking"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Yoshua Bengio Interview",
+                "lessonId": "Ndf7g",
+                "timeCommitment": 1548000,
+                "id": "bqUgf",
+                "moduleId": "JDY2Z",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1548000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "yoshua-bengio-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Mini-batch Gradient Descent",
+                "lessonId": "FrhBj",
+                "timeCommitment": 688000,
+                "id": "qcogH",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 688000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "mini-batch-gradient-descent"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Understanding Mini-batch Gradient Descent",
+                "lessonId": "FrhBj",
+                "timeCommitment": 678000,
+                "id": "lBXu8",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 678000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "understanding-mini-batch-gradient-descent"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Exponentially Weighted Averages",
+                "lessonId": "FrhBj",
+                "timeCommitment": 358000,
+                "id": "duStO",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 358000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "exponentially-weighted-averages"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Understanding Exponentially Weighted Averages",
+                "lessonId": "FrhBj",
+                "timeCommitment": 581000,
+                "id": "Ud7t0",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 581000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "understanding-exponentially-weighted-averages"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bias Correction in Exponentially Weighted Averages",
+                "lessonId": "FrhBj",
+                "timeCommitment": 252000,
+                "id": "XjuhD",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 252000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bias-correction-in-exponentially-weighted-averages"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Descent with Momentum",
+                "lessonId": "FrhBj",
+                "timeCommitment": 560000,
+                "id": "y0m1f",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 560000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gradient-descent-with-momentum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "RMSprop",
+                "lessonId": "FrhBj",
+                "timeCommitment": 461000,
+                "id": "BhJlm",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 461000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "rmsprop"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification about Upcoming Adam Optimization Video",
+                "lessonId": "FrhBj",
+                "timeCommitment": 60000,
+                "id": "5fSys",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-about-upcoming-adam-optimization-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Adam Optimization Algorithm",
+                "lessonId": "FrhBj",
+                "timeCommitment": 427000,
+                "id": "w9VCZ",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 427000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "adam-optimization-algorithm"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification about Learning Rate Decay Video",
+                "lessonId": "FrhBj",
+                "timeCommitment": 60000,
+                "id": "4DwoT",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-about-learning-rate-decay-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Learning Rate Decay",
+                "lessonId": "FrhBj",
+                "timeCommitment": 404000,
+                "id": "hjgIA",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 404000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "learning-rate-decay"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "The Problem of Local Optima",
+                "lessonId": "FrhBj",
+                "timeCommitment": 323000,
+                "id": "RFANA",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 323000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "the-problem-of-local-optima"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W2",
+                "lessonId": "RHYLw",
+                "timeCommitment": 60000,
+                "id": "c40RZ",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w2"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "KQD9f",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Optimization Algorithms  ",
+                "id": "fPIQZ",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@41",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "optimization-algorithms"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "SXJlq",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Optimization Methods",
+                "id": "390Oe",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "optimization-methods"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Yuanqing Lin Interview",
+                "lessonId": "LlGBO",
+                "timeCommitment": 816000,
+                "id": "CXqid",
+                "moduleId": "Rc4jY",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 816000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "yuanqing-lin-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Tuning Process",
+                "lessonId": "ODhzj",
+                "timeCommitment": 430000,
+                "id": "dknSn",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 430000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "tuning-process"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Using an Appropriate Scale to pick Hyperparameters",
+                "lessonId": "ODhzj",
+                "timeCommitment": 530000,
+                "id": "3rdqN",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 530000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "using-an-appropriate-scale-to-pick-hyperparameters"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Hyperparameters Tuning in Practice: Pandas vs. Caviar",
+                "lessonId": "ODhzj",
+                "timeCommitment": 411000,
+                "id": "DHNcc",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 411000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "hyperparameters-tuning-in-practice-pandas-vs-caviar"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification about Upcoming Normalizing Activations in a Network Video",
+                "lessonId": "anW0I",
+                "timeCommitment": 60000,
+                "id": "C9NAn",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-about-upcoming-normalizing-activations-in-a-network-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Normalizing Activations in a Network",
+                "lessonId": "anW0I",
+                "timeCommitment": 534000,
+                "id": "4ptp2",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 534000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "normalizing-activations-in-a-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Fitting Batch Norm into a Neural Network",
+                "lessonId": "anW0I",
+                "timeCommitment": 775000,
+                "id": "RN8bN",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 775000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "fitting-batch-norm-into-a-neural-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why does Batch Norm work?",
+                "lessonId": "anW0I",
+                "timeCommitment": 699000,
+                "id": "81oTm",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 699000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-does-batch-norm-work"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Batch Norm at Test Time",
+                "lessonId": "anW0I",
+                "timeCommitment": 345000,
+                "id": "FsoNw",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 345000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "batch-norm-at-test-time"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarifications about Upcoming Softmax Video",
+                "lessonId": "NWGk8",
+                "timeCommitment": 60000,
+                "id": "fh9Po",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarifications-about-upcoming-softmax-video"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Softmax Regression",
+                "lessonId": "NWGk8",
+                "timeCommitment": 707000,
+                "id": "HRy7y",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 707000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "softmax-regression"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Training a Softmax Classifier",
+                "lessonId": "NWGk8",
+                "timeCommitment": 607000,
+                "id": "LCsCH",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 607000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "training-a-softmax-classifier"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Deep Learning Frameworks",
+                "lessonId": "oeKDS",
+                "timeCommitment": 255000,
+                "id": "NpLFp",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 255000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "deep-learning-frameworks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "TensorFlow",
+                "lessonId": "oeKDS",
+                "timeCommitment": 901000,
+                "id": "zcZlH",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 901000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "tensorflow"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Learn about Gradient Tape and More",
+                "lessonId": "oeKDS",
+                "timeCommitment": 60000,
+                "id": "FYFvU",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-learn-about-gradient-tape-and-more"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W3",
+                "lessonId": "0sulz",
+                "timeCommitment": 60000,
+                "id": "ko7et",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w3"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "xYCPk",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Hyperparameter tuning, Batch Normalization, Programming Frameworks  ",
+                "id": "1mKhR",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@43",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "hyperparameter-tuning-batch-normalization-programming-frameworks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Reminder about end of access to Lab Notebooks",
+                "lessonId": "Ohh3F",
+                "timeCommitment": 120000,
+                "id": "pIaD9",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-reminder-about-end-of-access-to-lab-notebooks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "IEk6T",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "TensorFlow Introduction",
+                "id": "fuJJY",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "tensorflow-introduction"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "References",
+                "lessonId": "XpMqx",
+                "timeCommitment": 600000,
+                "id": "X1fuB",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "references"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "XpMqx",
+                "timeCommitment": 600000,
+                "id": "OGHln",
+                "moduleId": "ayKfw",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "uSlB2nw8Eee-bAqaHJfxmA",
+                    "BfDoJ3w-Eeeb5xLgy-JG8g",
+                    "RC5JqHw-Eeeb5xLgy-JG8g",
+                    "dRtPC3w-EeeeUwr4Wk7tBA",
+                    "qmanIXw-Eee8rxKk6S8aCg",
+                    "0k0wP3w-EeeeUwr4Wk7tBA",
+                    "6jqG9nw-EeehbA7uBkOHxA",
+                    "UJG34gmbEeu6JBI1t6fzNw",
+                    "2wvlNgmcEeuGqwrUSzeNMw"
+                ],
+                "name": "Practical Aspects of Deep Learning",
+                "description": "Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model. ",
+                "timeCommitment": 43856000,
+                "id": "JDY2Z",
+                "lessonIds": [
+                    "v3zs2",
+                    "V3OjN",
+                    "5Hkdg",
+                    "6eb3T",
+                    "lYVx2",
+                    "6NO8J",
+                    "Uc2TH",
+                    "Ndf7g"
+                ],
+                "slug": "practical-aspects-of-deep-learning"
+            },
+            {
+                "learningObjectives": [
+                    "QhIq-Xw_Eee-bAqaHJfxmA",
+                    "Zd7mFnw_Eee-bAqaHJfxmA",
+                    "g8IdK3w_EeehbA7uBkOHxA"
+                ],
+                "name": "Optimization Algorithms",
+                "description": "Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models. ",
+                "timeCommitment": 19528000,
+                "id": "Rc4jY",
+                "lessonIds": [
+                    "FrhBj",
+                    "RHYLw",
+                    "KQD9f",
+                    "SXJlq",
+                    "LlGBO"
+                ],
+                "slug": "optimization-algorithms"
+            },
+            {
+                "learningObjectives": [
+                    "kdCe-nxHEee8rxKk6S8aCg",
+                    "WXcBPQjGEeu6JBI1t6fzNw",
+                    "WXbZ5QjGEeuQRQ7no-67DQ",
+                    "iMcdjAmgEeuGqwrUSzeNMw",
+                    "E6_gyQmhEeu6JBI1t6fzNw",
+                    "GIBcOBSVEeu6JBI1t6fzNw",
+                    "GH_AWhSVEeuQRQ7no-67DQ",
+                    "GIA1EBSVEeuGqwrUSzeNMw"
+                ],
+                "name": "Hyperparameter Tuning, Batch Normalization and Programming Frameworks",
+                "description": "Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset. ",
+                "timeCommitment": 21554000,
+                "id": "ayKfw",
+                "lessonIds": [
+                    "ODhzj",
+                    "anW0I",
+                    "NWGk8",
+                    "oeKDS",
+                    "0sulz",
+                    "xYCPk",
+                    "Ohh3F",
+                    "IEk6T",
+                    "XpMqx"
+                ],
+                "slug": "hyperparameter-tuning-batch-normalization-and-programming-frameworks"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 666,
+                "isRequiredForPassing": false,
+                "id": "item~yTz20"
+            },
+            {
+                "gradingWeight": 1600,
+                "isRequiredForPassing": false,
+                "id": "item~QF47Q"
+            },
+            {
+                "gradingWeight": 1600,
+                "isRequiredForPassing": false,
+                "id": "item~FjL8C"
+            },
+            {
+                "gradingWeight": 1600,
+                "isRequiredForPassing": false,
+                "id": "item~RS2w3"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 667,
+                "id": "item~fPIQZ"
+            },
+            {
+                "gradingWeight": 1600,
+                "isRequiredForPassing": false,
+                "id": "item~390Oe"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 667,
+                "id": "item~1mKhR"
+            },
+            {
+                "gradingWeight": 1600,
+                "isRequiredForPassing": false,
+                "id": "item~fuJJY"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "BZ5quSvBEee6gA5XksfBbg"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}

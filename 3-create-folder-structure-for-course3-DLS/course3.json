@@ -1,0 +1,887 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "l4Kq6",
+                "j9i9o"
+            ],
+            "id": "-7ZymCvBEee6gA5XksfBbg"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 2,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "-7ZymCvBEee6gA5XksfBbg"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "yeHYT",
+                    "FRvQe"
+                ],
+                "name": "Introduction to ML Strategy",
+                "timeCommitment": 800000,
+                "id": "xIt1H",
+                "moduleId": "l4Kq6",
+                "slug": "introduction-to-ml-strategy",
+                "elementIds": [
+                    "item~yeHYT",
+                    "item~FRvQe"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "FNFLx"
+                ],
+                "name": "Connect with your Mentors and Fellow Learners on our Forum!",
+                "timeCommitment": 120000,
+                "id": "G94jW",
+                "moduleId": "l4Kq6",
+                "slug": "connect-with-your-mentors-and-fellow-learners-on-our-forum",
+                "elementIds": [
+                    "item~FNFLx"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "wIKkC",
+                    "uNWnZ",
+                    "78P8f",
+                    "HOby4",
+                    "Ux3wB"
+                ],
+                "name": "Setting Up your Goal",
+                "timeCommitment": 2192000,
+                "id": "1RAXT",
+                "moduleId": "l4Kq6",
+                "slug": "setting-up-your-goal",
+                "elementIds": [
+                    "item~wIKkC",
+                    "item~uNWnZ",
+                    "item~78P8f",
+                    "item~HOby4",
+                    "item~Ux3wB"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "FWkpo",
+                    "LG12R",
+                    "XInVm",
+                    "LiV7n",
+                    "4IPD6"
+                ],
+                "name": "Comparing to Human-level Performance",
+                "timeCommitment": 2093000,
+                "id": "3gimR",
+                "moduleId": "l4Kq6",
+                "slug": "comparing-to-human-level-performance",
+                "elementIds": [
+                    "item~FWkpo",
+                    "item~LG12R",
+                    "item~XInVm",
+                    "item~LiV7n",
+                    "item~4IPD6"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "HPUYq"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "bwgFK",
+                "moduleId": "l4Kq6",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~HPUYq"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "bLMRX",
+                    "JBzL3"
+                ],
+                "name": "Machine Learning Flight Simulator (Quiz)",
+                "timeCommitment": 4620000,
+                "id": "dICgT",
+                "moduleId": "l4Kq6",
+                "slug": "machine-learning-flight-simulator-quiz",
+                "elementIds": [
+                    "item~bLMRX",
+                    "item~JBzL3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Ggkxn"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 910000,
+                "id": "2XKYq",
+                "moduleId": "l4Kq6",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~Ggkxn"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "GwViP",
+                    "IGRRb",
+                    "jyWpn"
+                ],
+                "name": "Error Analysis",
+                "timeCommitment": 1740000,
+                "id": "uKLdy",
+                "moduleId": "j9i9o",
+                "slug": "error-analysis",
+                "elementIds": [
+                    "item~GwViP",
+                    "item~IGRRb",
+                    "item~jyWpn"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Xs9IV",
+                    "ht85t",
+                    "biLiy"
+                ],
+                "name": "Mismatched Training and Dev/Test Set",
+                "timeCommitment": 2359000,
+                "id": "boxaX",
+                "moduleId": "j9i9o",
+                "slug": "mismatched-training-and-dev-test-set",
+                "elementIds": [
+                    "item~Xs9IV",
+                    "item~ht85t",
+                    "item~biLiy"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "WNPap",
+                    "l9zia"
+                ],
+                "name": "Learning from Multiple Tasks",
+                "timeCommitment": 1456000,
+                "id": "Mb3vZ",
+                "moduleId": "j9i9o",
+                "slug": "learning-from-multiple-tasks",
+                "elementIds": [
+                    "item~WNPap",
+                    "item~l9zia"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "k0Klk",
+                    "H56eb"
+                ],
+                "name": "End-to-end Deep Learning",
+                "timeCommitment": 1326000,
+                "id": "4RELj",
+                "moduleId": "j9i9o",
+                "slug": "end-to-end-deep-learning",
+                "elementIds": [
+                    "item~k0Klk",
+                    "item~H56eb"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "MJXo6"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "JYFLX",
+                "moduleId": "j9i9o",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~MJXo6"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "9QaQK"
+                ],
+                "name": "Machine Learning Flight Simulator (Quiz)",
+                "timeCommitment": 4500000,
+                "id": "iQkkW",
+                "moduleId": "j9i9o",
+                "slug": "machine-learning-flight-simulator-quiz",
+                "elementIds": [
+                    "item~9QaQK"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "kR8gk"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 1028000,
+                "id": "nyn1E",
+                "moduleId": "j9i9o",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~kR8gk"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "M8Oeb"
+                ],
+                "name": "Acknowledgments",
+                "timeCommitment": 600000,
+                "id": "wcGx2",
+                "moduleId": "j9i9o",
+                "slug": "acknowledgments",
+                "elementIds": [
+                    "item~M8Oeb"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why ML Strategy",
+                "lessonId": "xIt1H",
+                "timeCommitment": 162000,
+                "id": "yeHYT",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 162000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-ml-strategy"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Orthogonalization",
+                "lessonId": "xIt1H",
+                "timeCommitment": 638000,
+                "id": "FRvQe",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 638000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "orthogonalization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "G94jW",
+                "timeCommitment": 120000,
+                "id": "FNFLx",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Single Number Evaluation Metric",
+                "lessonId": "1RAXT",
+                "timeCommitment": 435000,
+                "id": "wIKkC",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 435000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "single-number-evaluation-metric"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Satisficing and Optimizing Metric",
+                "lessonId": "1RAXT",
+                "timeCommitment": 357000,
+                "id": "uNWnZ",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 357000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "satisficing-and-optimizing-metric"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Train/Dev/Test Distributions",
+                "lessonId": "1RAXT",
+                "timeCommitment": 395000,
+                "id": "78P8f",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 395000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "train-dev-test-distributions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Size of the Dev and Test Sets",
+                "lessonId": "1RAXT",
+                "timeCommitment": 338000,
+                "id": "HOby4",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 338000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "size-of-the-dev-and-test-sets"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "When to Change Dev/Test Sets and Metrics?",
+                "lessonId": "1RAXT",
+                "timeCommitment": 667000,
+                "id": "Ux3wB",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 667000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "when-to-change-dev-test-sets-and-metrics"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why Human-level Performance?",
+                "lessonId": "3gimR",
+                "timeCommitment": 346000,
+                "id": "FWkpo",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 346000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-human-level-performance"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Avoidable Bias",
+                "lessonId": "3gimR",
+                "timeCommitment": 419000,
+                "id": "LG12R",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 419000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "avoidable-bias"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Understanding Human-level Performance",
+                "lessonId": "3gimR",
+                "timeCommitment": 671000,
+                "id": "XInVm",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 671000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "understanding-human-level-performance"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Surpassing Human-level Performance",
+                "lessonId": "3gimR",
+                "timeCommitment": 381000,
+                "id": "LiV7n",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 381000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "surpassing-human-level-performance"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Improving your Model Performance",
+                "lessonId": "3gimR",
+                "timeCommitment": 276000,
+                "id": "4IPD6",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 276000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "improving-your-model-performance"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W1",
+                "lessonId": "bwgFK",
+                "timeCommitment": 60000,
+                "id": "HPUYq",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w1"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Machine Learning Flight Simulator",
+                "lessonId": "dICgT",
+                "timeCommitment": 120000,
+                "id": "bLMRX",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "machine-learning-flight-simulator"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "dICgT",
+                "timeCommitment": 4500000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Bird Recognition in the City of Peacetopia (Case Study) ",
+                "id": "JBzL3",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "bird-recognition-in-the-city-of-peacetopia-case-study"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Andrej Karpathy Interview",
+                "lessonId": "2XKYq",
+                "timeCommitment": 910000,
+                "id": "Ggkxn",
+                "moduleId": "l4Kq6",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 910000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "andrej-karpathy-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Carrying Out Error Analysis",
+                "lessonId": "uKLdy",
+                "timeCommitment": 631000,
+                "id": "GwViP",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 631000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "carrying-out-error-analysis"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Cleaning Up Incorrectly Labeled Data",
+                "lessonId": "uKLdy",
+                "timeCommitment": 785000,
+                "id": "IGRRb",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 785000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "cleaning-up-incorrectly-labeled-data"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Build your First System Quickly, then Iterate",
+                "lessonId": "uKLdy",
+                "timeCommitment": 324000,
+                "id": "jyWpn",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 324000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "build-your-first-system-quickly-then-iterate"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Training and Testing on Different Distributions",
+                "lessonId": "boxaX",
+                "timeCommitment": 655000,
+                "id": "Xs9IV",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 655000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "training-and-testing-on-different-distributions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Bias and Variance with Mismatched Data Distributions",
+                "lessonId": "boxaX",
+                "timeCommitment": 1096000,
+                "id": "ht85t",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1096000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "bias-and-variance-with-mismatched-data-distributions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Addressing Data Mismatch",
+                "lessonId": "boxaX",
+                "timeCommitment": 608000,
+                "id": "biLiy",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 608000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "addressing-data-mismatch"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Transfer Learning",
+                "lessonId": "Mb3vZ",
+                "timeCommitment": 677000,
+                "id": "WNPap",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 677000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "transfer-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Multi-task Learning",
+                "lessonId": "Mb3vZ",
+                "timeCommitment": 779000,
+                "id": "l9zia",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 779000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "multi-task-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is End-to-end Deep Learning?",
+                "lessonId": "4RELj",
+                "timeCommitment": 707000,
+                "id": "k0Klk",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 707000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-is-end-to-end-deep-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Whether to use End-to-end Deep Learning",
+                "lessonId": "4RELj",
+                "timeCommitment": 619000,
+                "id": "H56eb",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 619000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "whether-to-use-end-to-end-deep-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W2",
+                "lessonId": "JYFLX",
+                "timeCommitment": 60000,
+                "id": "MJXo6",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w2"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "iQkkW",
+                "timeCommitment": 4500000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Autonomous Driving (Case Study) ",
+                "id": "9QaQK",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@2",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "WIDGET_QUESTIONS"
+                        ]
+                    }
+                },
+                "slug": "autonomous-driving-case-study"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Ruslan Salakhutdinov Interview",
+                "lessonId": "nyn1E",
+                "timeCommitment": 1028000,
+                "id": "kR8gk",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 1028000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "ruslan-salakhutdinov-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "wcGx2",
+                "timeCommitment": 600000,
+                "id": "M8Oeb",
+                "moduleId": "j9i9o",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "Rz2-Nnw8EeeRLg4KLvZT5g",
+                    "eF-Pznw8EeeRLg4KLvZT5g",
+                    "kznMGXw8EeegUArdkATB9A",
+                    "o0qAOHw8Eee8rxKk6S8aCg",
+                    "yMi82nw8Eee8rxKk6S8aCg",
+                    "JFaLAnw9Eee8rxKk6S8aCg"
+                ],
+                "name": "ML Strategy ",
+                "description": "Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities. ",
+                "timeCommitment": 10795000,
+                "id": "l4Kq6",
+                "lessonIds": [
+                    "xIt1H",
+                    "G94jW",
+                    "1RAXT",
+                    "3gimR",
+                    "bwgFK",
+                    "dICgT",
+                    "2XKYq"
+                ],
+                "slug": "ml-strategy"
+            },
+            {
+                "learningObjectives": [
+                    "IN8BPXxGEeehbA7uBkOHxA",
+                    "X002r3xGEee8rxKk6S8aCg"
+                ],
+                "name": "ML Strategy ",
+                "description": "Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning. ",
+                "timeCommitment": 13069000,
+                "id": "j9i9o",
+                "lessonIds": [
+                    "uKLdy",
+                    "boxaX",
+                    "Mb3vZ",
+                    "4RELj",
+                    "JYFLX",
+                    "iQkkW",
+                    "nyn1E",
+                    "wcGx2"
+                ],
+                "slug": "ml-strategy"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 5000,
+                "isRequiredForPassing": false,
+                "id": "item~JBzL3"
+            },
+            {
+                "gradingWeight": 5000,
+                "isRequiredForPassing": false,
+                "id": "item~9QaQK"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "-7ZymCvBEee6gA5XksfBbg"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}

@@ -1,0 +1,1861 @@
+{
+    "elements": [
+        {
+            "moduleIds": [
+                "tfmmo",
+                "0II0E",
+                "qaG8e",
+                "69zRV"
+            ],
+            "id": "W_mOXCrdEeeNPQ68_4aPpA"
+        }
+    ],
+    "paging": {},
+    "linked": {
+        "onDemandCourseMaterialTracks.v1": [
+            {
+                "passablesCount": 8,
+                "id": "core"
+            }
+        ],
+        "onDemandGradingParameters.v1": [
+            {
+                "gradedAssignmentGroups": {},
+                "id": "W_mOXCrdEeeNPQ68_4aPpA"
+            }
+        ],
+        "onDemandCourseMaterialLessons.v1": [
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Cuf2f"
+                ],
+                "name": "Welcome to the Deep Learning Specialization",
+                "timeCommitment": 331000,
+                "id": "DOB0K",
+                "moduleId": "tfmmo",
+                "slug": "welcome-to-the-deep-learning-specialization",
+                "elementIds": [
+                    "item~Cuf2f"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "eAE2G",
+                    "2c38r",
+                    "praGm",
+                    "6A3es",
+                    "8m11i",
+                    "GFFMQ",
+                    "CHeiR"
+                ],
+                "name": "Introduction to Deep Learning",
+                "timeCommitment": 2492000,
+                "id": "dSSMw",
+                "moduleId": "tfmmo",
+                "slug": "introduction-to-deep-learning",
+                "elementIds": [
+                    "item~eAE2G",
+                    "item~2c38r",
+                    "item~praGm",
+                    "item~6A3es",
+                    "item~8m11i",
+                    "item~GFFMQ",
+                    "item~CHeiR"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "h0anT"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "vkZGw",
+                "moduleId": "tfmmo",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~h0anT"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "3KFZW"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "ZQReK",
+                "moduleId": "tfmmo",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~3KFZW"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "dcm5r"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 2422000,
+                "id": "F3fCA",
+                "moduleId": "tfmmo",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~dcm5r"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "Z8j0R",
+                    "LoKih",
+                    "yWaRd",
+                    "A0tBd",
+                    "0ULGt",
+                    "oEcPT",
+                    "4WdOY",
+                    "0VSHe",
+                    "5sdh6",
+                    "udiAq",
+                    "chdB6"
+                ],
+                "name": "Logistic Regression as a Neural Network",
+                "timeCommitment": 5661000,
+                "id": "8XsyH",
+                "moduleId": "0II0E",
+                "slug": "logistic-regression-as-a-neural-network",
+                "elementIds": [
+                    "item~Z8j0R",
+                    "item~LoKih",
+                    "item~yWaRd",
+                    "item~A0tBd",
+                    "item~0ULGt",
+                    "item~oEcPT",
+                    "item~4WdOY",
+                    "item~0VSHe",
+                    "item~5sdh6",
+                    "item~udiAq",
+                    "item~chdB6"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "NYnog",
+                    "ZPlX9",
+                    "moUlO",
+                    "IgFnJ",
+                    "uBuTv",
+                    "87MUx",
+                    "ChN1T",
+                    "SmIbQ"
+                ],
+                "name": "Python and Vectorization",
+                "timeCommitment": 3622000,
+                "id": "IO13w",
+                "moduleId": "0II0E",
+                "slug": "python-and-vectorization",
+                "elementIds": [
+                    "item~NYnog",
+                    "item~ZPlX9",
+                    "item~moUlO",
+                    "item~IgFnJ",
+                    "item~uBuTv",
+                    "item~87MUx",
+                    "item~ChN1T",
+                    "item~SmIbQ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "5h3ML"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "i7S0Y",
+                "moduleId": "0II0E",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~5h3ML"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "c1bic"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "1Mz9i",
+                "moduleId": "0II0E",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~c1bic"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "muGtL",
+                    "oABOh",
+                    "xLEC1",
+                    "isoAV",
+                    "thQd4"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 15420000,
+                "id": "NOLAY",
+                "moduleId": "0II0E",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~muGtL",
+                    "item~oABOh",
+                    "item~xLEC1",
+                    "item~isoAV",
+                    "item~thQd4"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "eqiZZ"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 963000,
+                "id": "fSgik",
+                "moduleId": "0II0E",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~eqiZZ"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "qg83v",
+                    "GyW9e",
+                    "tyAGh",
+                    "ZCcMM",
+                    "Y20qP",
+                    "4dDC1",
+                    "OASKH",
+                    "qcG1j",
+                    "Wh8NI",
+                    "6dDj7",
+                    "XtFPI"
+                ],
+                "name": "Shallow Neural Network",
+                "timeCommitment": 5669000,
+                "id": "jaBa1",
+                "moduleId": "qaG8e",
+                "slug": "shallow-neural-network",
+                "elementIds": [
+                    "item~qg83v",
+                    "item~GyW9e",
+                    "item~tyAGh",
+                    "item~ZCcMM",
+                    "item~Y20qP",
+                    "item~4dDC1",
+                    "item~OASKH",
+                    "item~qcG1j",
+                    "item~Wh8NI",
+                    "item~6dDj7",
+                    "item~XtFPI"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "w3g8c"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "J0GBO",
+                "moduleId": "qaG8e",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~w3g8c"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "mLgvR"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "AYywe",
+                "moduleId": "qaG8e",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~mLgvR"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "e6FsA"
+                ],
+                "name": "Programming Assignment",
+                "timeCommitment": 10800000,
+                "id": "8dgYP",
+                "moduleId": "qaG8e",
+                "slug": "programming-assignment",
+                "elementIds": [
+                    "item~e6FsA"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "WSia1"
+                ],
+                "name": "Heroes of Deep Learning (Optional)",
+                "timeCommitment": 895000,
+                "id": "igNnv",
+                "moduleId": "qaG8e",
+                "slug": "heroes-of-deep-learning-optional",
+                "elementIds": [
+                    "item~WSia1"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "7dP6E",
+                    "MijzH",
+                    "Rz47X",
+                    "rz9xJ",
+                    "uGCun",
+                    "znwiG",
+                    "3FdNk",
+                    "TBvb5",
+                    "E79Uh",
+                    "obJnR"
+                ],
+                "name": "Deep Neural Network",
+                "timeCommitment": 4521000,
+                "id": "ionMx",
+                "moduleId": "69zRV",
+                "slug": "deep-neural-network",
+                "elementIds": [
+                    "item~7dP6E",
+                    "item~MijzH",
+                    "item~Rz47X",
+                    "item~rz9xJ",
+                    "item~uGCun",
+                    "item~znwiG",
+                    "item~3FdNk",
+                    "item~TBvb5",
+                    "item~E79Uh",
+                    "item~obJnR"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "amcHB"
+                ],
+                "name": "Lecture Notes (Optional)",
+                "timeCommitment": 60000,
+                "id": "rV3Ni",
+                "moduleId": "69zRV",
+                "slug": "lecture-notes-optional",
+                "elementIds": [
+                    "item~amcHB"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "hE8Y3"
+                ],
+                "name": "Quiz",
+                "timeCommitment": 3000000,
+                "id": "EmUbD",
+                "moduleId": "69zRV",
+                "slug": "quiz",
+                "elementIds": [
+                    "item~hE8Y3"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "dPcHi"
+                ],
+                "name": "End of access to Lab Notebooks",
+                "timeCommitment": 120000,
+                "id": "VnZiD",
+                "moduleId": "69zRV",
+                "slug": "end-of-access-to-lab-notebooks",
+                "elementIds": [
+                    "item~dPcHi"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "GY8CB",
+                    "A1DNP",
+                    "Sfu8g"
+                ],
+                "name": "Programming Assignments",
+                "timeCommitment": 22200000,
+                "id": "G82Vx",
+                "moduleId": "69zRV",
+                "slug": "programming-assignments",
+                "elementIds": [
+                    "item~GY8CB",
+                    "item~A1DNP",
+                    "item~Sfu8g"
+                ]
+            },
+            {
+                "trackId": "core",
+                "itemIds": [
+                    "o2jf4",
+                    "YbXnX"
+                ],
+                "name": "References & Acknowledgments",
+                "timeCommitment": 1200000,
+                "id": "ZR4iA",
+                "moduleId": "69zRV",
+                "slug": "references-acknowledgments",
+                "elementIds": [
+                    "item~o2jf4",
+                    "item~YbXnX"
+                ]
+            }
+        ],
+        "onDemandCourseMaterialItems.v2": [
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Welcome",
+                "lessonId": "DOB0K",
+                "timeCommitment": 331000,
+                "id": "Cuf2f",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 331000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "welcome"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What is a Neural Network?",
+                "lessonId": "dSSMw",
+                "timeCommitment": 436000,
+                "id": "eAE2G",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 436000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "what-is-a-neural-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Supervised Learning with Neural Networks",
+                "lessonId": "dSSMw",
+                "timeCommitment": 508000,
+                "id": "2c38r",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 508000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "supervised-learning-with-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why is Deep Learning taking off?",
+                "lessonId": "dSSMw",
+                "timeCommitment": 621000,
+                "id": "praGm",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 621000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "why-is-deep-learning-taking-off"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "About this Course",
+                "lessonId": "dSSMw",
+                "timeCommitment": 147000,
+                "id": "6A3es",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 147000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "about-this-course"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "dSSMw",
+                "timeCommitment": 60000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Intake Survey",
+                "id": "8m11i",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "ungradedLti",
+                    "definition": {}
+                },
+                "slug": "intake-survey"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Have questions, issues or ideas? Join our Forum!",
+                "lessonId": "dSSMw",
+                "timeCommitment": 120000,
+                "id": "GFFMQ",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-have-questions-issues-or-ideas-join-our-forum"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Frequently Asked Questions",
+                "lessonId": "dSSMw",
+                "timeCommitment": 600000,
+                "id": "CHeiR",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "frequently-asked-questions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W1",
+                "lessonId": "vkZGw",
+                "timeCommitment": 60000,
+                "id": "h0anT",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w1"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "ZQReK",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Introduction to Deep Learning ",
+                "id": "3KFZW",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "isTeamSubmissionEnabled": false,
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@36",
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "introduction-to-deep-learning"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Geoffrey Hinton Interview",
+                "lessonId": "F3fCA",
+                "timeCommitment": 2422000,
+                "id": "dcm5r",
+                "moduleId": "tfmmo",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 2422000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "geoffrey-hinton-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Binary Classification",
+                "lessonId": "8XsyH",
+                "timeCommitment": 503000,
+                "id": "Z8j0R",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 503000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "binary-classification"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Logistic Regression",
+                "lessonId": "8XsyH",
+                "timeCommitment": 358000,
+                "id": "LoKih",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 358000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "logistic-regression"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Logistic Regression Cost Function",
+                "lessonId": "8XsyH",
+                "timeCommitment": 492000,
+                "id": "yWaRd",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 492000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "logistic-regression-cost-function"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Descent",
+                "lessonId": "8XsyH",
+                "timeCommitment": 683000,
+                "id": "A0tBd",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 683000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "gradient-descent"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Derivatives",
+                "lessonId": "8XsyH",
+                "timeCommitment": 430000,
+                "id": "0ULGt",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 430000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "derivatives"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "More Derivative Examples",
+                "lessonId": "8XsyH",
+                "timeCommitment": 627000,
+                "id": "oEcPT",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 627000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "more-derivative-examples"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Computation Graph",
+                "lessonId": "8XsyH",
+                "timeCommitment": 213000,
+                "id": "4WdOY",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 213000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "computation-graph"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Derivatives with a Computation Graph",
+                "lessonId": "8XsyH",
+                "timeCommitment": 873000,
+                "id": "0VSHe",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 873000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "derivatives-with-a-computation-graph"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Logistic Regression Gradient Descent",
+                "lessonId": "8XsyH",
+                "timeCommitment": 402000,
+                "id": "5sdh6",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 402000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "logistic-regression-gradient-descent"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Descent on m Examples",
+                "lessonId": "8XsyH",
+                "timeCommitment": 480000,
+                "id": "udiAq",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 480000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "gradient-descent-on-m-examples"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Derivation of DL/dz (Optional)",
+                "lessonId": "8XsyH",
+                "timeCommitment": 600000,
+                "id": "chdB6",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "derivation-of-dl-dz-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vectorization",
+                "lessonId": "IO13w",
+                "timeCommitment": 484000,
+                "id": "NYnog",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 484000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "vectorization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "More Vectorization Examples",
+                "lessonId": "IO13w",
+                "timeCommitment": 379000,
+                "id": "ZPlX9",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 379000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "more-vectorization-examples"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vectorizing Logistic Regression",
+                "lessonId": "IO13w",
+                "timeCommitment": 452000,
+                "id": "moUlO",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 452000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "vectorizing-logistic-regression"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vectorizing Logistic Regression's Gradient Output",
+                "lessonId": "IO13w",
+                "timeCommitment": 577000,
+                "id": "IgFnJ",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 577000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "vectorizing-logistic-regressions-gradient-output"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Broadcasting in Python",
+                "lessonId": "IO13w",
+                "timeCommitment": 665000,
+                "id": "uBuTv",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 665000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "broadcasting-in-python"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "A Note on Python/Numpy Vectors",
+                "lessonId": "IO13w",
+                "timeCommitment": 409000,
+                "id": "87MUx",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 409000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "a-note-on-python-numpy-vectors"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Quick tour of Jupyter/iPython Notebooks",
+                "lessonId": "IO13w",
+                "timeCommitment": 222000,
+                "id": "ChN1T",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 222000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "quick-tour-of-jupyter-ipython-notebooks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Explanation of Logistic Regression Cost Function (Optional)",
+                "lessonId": "IO13w",
+                "timeCommitment": 434000,
+                "id": "SmIbQ",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 434000,
+                        "hasInVideoAssessment": true
+                    }
+                },
+                "slug": "explanation-of-logistic-regression-cost-function-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W2",
+                "lessonId": "i7S0Y",
+                "timeCommitment": 60000,
+                "id": "5h3ML",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w2"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "1Mz9i",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Neural Network Basics               ",
+                "id": "c1bic",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@37",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "neural-network-basics"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Deep Learning Honor Code",
+                "lessonId": "NOLAY",
+                "timeCommitment": 120000,
+                "id": "muGtL",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "deep-learning-honor-code"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Programming Assignment FAQ",
+                "lessonId": "NOLAY",
+                "timeCommitment": 600000,
+                "id": "oABOh",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "programming-assignment-faq"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace",
+                "lessonId": "NOLAY",
+                "timeCommitment": 300000,
+                "id": "xLEC1",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-downloading-your-notebook-downloading-your-workspace-and-refreshing"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "NOLAY",
+                "timeCommitment": 3600000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Python Basics with Numpy",
+                "id": "isoAV",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "ungradedProgramming",
+                    "definition": {}
+                },
+                "slug": "python-basics-with-numpy"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "NOLAY",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Logistic Regression with a Neural Network Mindset",
+                "id": "thQd4",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "logistic-regression-with-a-neural-network-mindset"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Pieter Abbeel Interview",
+                "lessonId": "fSgik",
+                "timeCommitment": 963000,
+                "id": "eqiZZ",
+                "moduleId": "0II0E",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 963000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "pieter-abbeel-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Neural Networks Overview",
+                "lessonId": "jaBa1",
+                "timeCommitment": 266000,
+                "id": "qg83v",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 266000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "neural-networks-overview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Neural Network Representation",
+                "lessonId": "jaBa1",
+                "timeCommitment": 314000,
+                "id": "GyW9e",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 314000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "neural-network-representation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Computing a Neural Network's Output",
+                "lessonId": "jaBa1",
+                "timeCommitment": 597000,
+                "id": "tyAGh",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 597000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "computing-a-neural-networks-output"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Vectorizing Across Multiple Examples",
+                "lessonId": "jaBa1",
+                "timeCommitment": 545000,
+                "id": "ZCcMM",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 545000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "vectorizing-across-multiple-examples"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Explanation for Vectorized Implementation",
+                "lessonId": "jaBa1",
+                "timeCommitment": 457000,
+                "id": "Y20qP",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 457000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "explanation-for-vectorized-implementation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Activation Functions",
+                "lessonId": "jaBa1",
+                "timeCommitment": 656000,
+                "id": "4dDC1",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 656000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "activation-functions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why do you need Non-Linear Activation Functions?",
+                "lessonId": "jaBa1",
+                "timeCommitment": 335000,
+                "id": "OASKH",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 335000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-do-you-need-non-linear-activation-functions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Derivatives of Activation Functions",
+                "lessonId": "jaBa1",
+                "timeCommitment": 477000,
+                "id": "qcG1j",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 477000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "derivatives-of-activation-functions"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Gradient Descent for Neural Networks",
+                "lessonId": "jaBa1",
+                "timeCommitment": 597000,
+                "id": "Wh8NI",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 597000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "gradient-descent-for-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Backpropagation Intuition (Optional)",
+                "lessonId": "jaBa1",
+                "timeCommitment": 948000,
+                "id": "6dDj7",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 948000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "backpropagation-intuition-optional"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Random Initialization",
+                "lessonId": "jaBa1",
+                "timeCommitment": 477000,
+                "id": "XtFPI",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 477000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "random-initialization"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W3",
+                "lessonId": "J0GBO",
+                "timeCommitment": 60000,
+                "id": "w3g8c",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w3"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "AYywe",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Shallow Neural Networks                 ",
+                "id": "mLgvR",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@38",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "shallow-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "8dgYP",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Planar Data Classification with One Hidden Layer",
+                "id": "e6FsA",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "planar-data-classification-with-one-hidden-layer"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Ian Goodfellow Interview",
+                "lessonId": "igNnv",
+                "timeCommitment": 895000,
+                "id": "WSia1",
+                "moduleId": "qaG8e",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 895000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "ian-goodfellow-interview"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Deep L-layer Neural Network",
+                "lessonId": "ionMx",
+                "timeCommitment": 350000,
+                "id": "7dP6E",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 350000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "deep-l-layer-neural-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Forward Propagation in a Deep Network",
+                "lessonId": "ionMx",
+                "timeCommitment": 435000,
+                "id": "MijzH",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 435000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "forward-propagation-in-a-deep-network"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Getting your Matrix Dimensions Right",
+                "lessonId": "ionMx",
+                "timeCommitment": 669000,
+                "id": "Rz47X",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 669000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "getting-your-matrix-dimensions-right"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Why Deep Representations?",
+                "lessonId": "ionMx",
+                "timeCommitment": 633000,
+                "id": "rz9xJ",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 633000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "why-deep-representations"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Building Blocks of Deep Neural Networks",
+                "lessonId": "ionMx",
+                "timeCommitment": 513000,
+                "id": "uGCun",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 513000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "building-blocks-of-deep-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Forward and Backward Propagation",
+                "lessonId": "ionMx",
+                "timeCommitment": 629000,
+                "id": "znwiG",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 629000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "forward-and-backward-propagation"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Optional Reading: Feedforward Neural Networks in Depth",
+                "lessonId": "ionMx",
+                "timeCommitment": 600000,
+                "id": "3FdNk",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "optional-reading-feedforward-neural-networks-in-depth"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Parameters vs Hyperparameters",
+                "lessonId": "ionMx",
+                "timeCommitment": 436000,
+                "id": "TBvb5",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 436000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "parameters-vs-hyperparameters"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Clarification For: What does this have to do with the brain?",
+                "lessonId": "ionMx",
+                "timeCommitment": 60000,
+                "id": "E79Uh",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "clarification-for-what-does-this-have-to-do-with-the-brain"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "What does this have to do with the brain?",
+                "lessonId": "ionMx",
+                "timeCommitment": 196000,
+                "id": "obJnR",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "lecture",
+                    "definition": {
+                        "duration": 196000,
+                        "hasInVideoAssessment": false
+                    }
+                },
+                "slug": "what-does-this-have-to-do-with-the-brain"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Lecture Notes W4",
+                "lessonId": "rV3Ni",
+                "timeCommitment": 60000,
+                "id": "amcHB",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "lecture-notes-w4"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "EmUbD",
+                "timeCommitment": 3000000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Key Concepts on Deep Neural Networks                 ",
+                "id": "hE8Y3",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "staffGraded",
+                    "definition": {
+                        "standardProctorConfigurationId": "STANDARD~y5_hDLPhEe6W9w5rLjaYjQ!~y5_hDbPhEe6W9w5rLjaYjQ@39",
+                        "isTeamSubmissionEnabled": false,
+                        "requiredMobileFeatures": [
+                            "ATTEMPT_TIME_LIMITS"
+                        ]
+                    }
+                },
+                "slug": "key-concepts-on-deep-neural-networks"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "[IMPORTANT] Reminder about end of access to Lab Notebooks",
+                "lessonId": "VnZiD",
+                "timeCommitment": 120000,
+                "id": "dPcHi",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "important-reminder-about-end-of-access-to-lab-notebooks"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "G82Vx",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Building your Deep Neural Network: Step by Step",
+                "id": "GY8CB",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "building-your-deep-neural-network-step-by-step"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Confusing Output from the AutoGrader",
+                "lessonId": "G82Vx",
+                "timeCommitment": 600000,
+                "id": "A1DNP",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "confusing-output-from-the-autograder"
+            },
+            {
+                "trackId": "core",
+                "lockedStatus": "LOCKED_FULLY",
+                "lessonId": "G82Vx",
+                "timeCommitment": 10800000,
+                "itemLockSummary": {
+                    "lockState": {
+                        "lockStatus": "LOCKED_FULLY",
+                        "reasonCode": "ENROLLMENT_PREVIEW"
+                    }
+                },
+                "isLocked": true,
+                "itemLockedReasonCode": "ENROLLMENT_PREVIEW",
+                "name": "Deep Neural Network - Application",
+                "id": "Sfu8g",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "gradedProgramming",
+                    "definition": {}
+                },
+                "slug": "deep-neural-network-application"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "References ",
+                "lessonId": "ZR4iA",
+                "timeCommitment": 600000,
+                "id": "o2jf4",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "references"
+            },
+            {
+                "trackId": "core",
+                "isLocked": false,
+                "name": "Acknowledgments",
+                "lessonId": "ZR4iA",
+                "timeCommitment": 600000,
+                "id": "YbXnX",
+                "moduleId": "69zRV",
+                "contentSummary": {
+                    "typeName": "supplement",
+                    "definition": {
+                        "assetTypeName": "cml",
+                        "containsWidget": false
+                    }
+                },
+                "slug": "acknowledgments"
+            }
+        ],
+        "onDemandCourseMaterialModules.v1": [
+            {
+                "learningObjectives": [
+                    "v7ZB-nwrEeeb5xLgy-JG8g",
+                    "2cJZCHwrEeegUArdkATB9A",
+                    "7lJTqXwrEeeeUwr4Wk7tBA",
+                    "CQi0IXwsEee8rxKk6S8aCg"
+                ],
+                "name": "Introduction to Deep Learning",
+                "description": "Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.  ",
+                "timeCommitment": 8305000,
+                "id": "tfmmo",
+                "lessonIds": [
+                    "DOB0K",
+                    "dSSMw",
+                    "vkZGw",
+                    "ZQReK",
+                    "F3fCA"
+                ],
+                "slug": "introduction-to-deep-learning"
+            },
+            {
+                "learningObjectives": [
+                    "LNlAnHwsEeetXw69zSKjOg",
+                    "UZAOcHwsEeegUArdkATB9A",
+                    "fedF_oFDEee89g6qoq3-JA",
+                    "fY_xuXwsEee-bAqaHJfxmA",
+                    "lczzPnIxEeex2xI42XoR-g",
+                    "tfU3fnIxEeeeeA7mQ0toEg",
+                    "jzyiB3wsEeeRLg4KLvZT5g",
+                    "Dv8VnQmUEeuGqwrUSzeNMw"
+                ],
+                "name": "Neural Networks Basics",
+                "description": "Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models. ",
+                "timeCommitment": 28726000,
+                "id": "0II0E",
+                "lessonIds": [
+                    "8XsyH",
+                    "IO13w",
+                    "i7S0Y",
+                    "1Mz9i",
+                    "NOLAY",
+                    "fSgik"
+                ],
+                "slug": "neural-networks-basics"
+            },
+            {
+                "learningObjectives": [
+                    "z6XpBXIxEeex2xI42XoR-g",
+                    "9HcXOnwsEeegUArdkATB9A",
+                    "-Zw_knIxEeeBPQohlkvdYg",
+                    "B_o6mHIyEeeBPQohlkvdYg",
+                    "H1M_g3IyEeeBPQohlkvdYg",
+                    "ATJeGHwtEeeb5xLgy-JG8g",
+                    "4LKKoRSSEeuGqwrUSzeNMw"
+                ],
+                "name": "Shallow Neural Networks",
+                "description": "Build a neural network with one hidden layer, using forward propagation and backpropagation. ",
+                "timeCommitment": 20424000,
+                "id": "qaG8e",
+                "lessonIds": [
+                    "jaBa1",
+                    "J0GBO",
+                    "AYywe",
+                    "8dgYP",
+                    "igNnv"
+                ],
+                "slug": "shallow-neural-networks"
+            },
+            {
+                "learningObjectives": [
+                    "QUoCnnIyEeeuAA7BCbU6CA",
+                    "FbobNXwtEeetfxLEZT_Xng",
+                    "Js9tLnwtEeeeUwr4Wk7tBA",
+                    "UXVlOnwtEeetfxLEZT_Xng",
+                    "Pye5snwtEeeeUwr4Wk7tBA",
+                    "iDCHwRo2EeuQRQ7no-67DQ"
+                ],
+                "name": "Deep Neural Networks",
+                "description": "Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks. ",
+                "timeCommitment": 31101000,
+                "id": "69zRV",
+                "lessonIds": [
+                    "ionMx",
+                    "rV3Ni",
+                    "EmUbD",
+                    "VnZiD",
+                    "G82Vx",
+                    "ZR4iA"
+                ],
+                "slug": "deep-neural-networks"
+            }
+        ],
+        "onDemandCourseMaterialPassableLessonElements.v1": [
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~3KFZW"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~c1bic"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 2000,
+                "id": "item~thQd4"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~mLgvR"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 2000,
+                "id": "item~e6FsA"
+            },
+            {
+                "gradingWeight": 500,
+                "isRequiredForPassing": false,
+                "id": "item~hE8Y3"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 2000,
+                "id": "item~GY8CB"
+            },
+            {
+                "isRequiredForPassing": false,
+                "gradingWeight": 2000,
+                "id": "item~Sfu8g"
+            }
+        ],
+        "onDemandCourseMaterialGradePolicy.v1": [
+            {
+                "org.coursera.ondemand.coursematerial.MasteryGradePolicy": {},
+                "id": "W_mOXCrdEeeNPQ68_4aPpA"
+            }
+        ],
+        "contentAtomRelations.v1": []
+    }
+}
