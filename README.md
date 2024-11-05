@@ -11,3 +11,7 @@ Automate the process of creating a folder structure by using a Python3 script. T
 Applicable for course 3 in the specialization and for the following ones
 
 The method to obtain the important data has changed from Coursera and a solution is provided in this repo.
+
+### 3-create-folder-structure-for-courses1to5-DLS: 
+
+Same as 1- and 2- but this time applied to the Deep Learning Specialization offered on Coursera's platform.
